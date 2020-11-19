@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-11-19
+## Last update: 2020-11-20
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -8966,6 +8966,7 @@
 .*\badgomob\.com
 .*\badhei\.com
 .*\badhhome\.com
+.*\badhimalayandi\.com
 .*\badhouyi\.com
 .*\badhubbj\.xyz
 .*\badhudong\.com
@@ -9890,6 +9891,7 @@
 .*\baliyunddos1026\.com
 .*\baliyunddos1028\.com
 .*\baliyunddos1029\.com
+.*\baliyundrive\.com
 .*\baliyunduncc\.com
 .*\baliyundunwaf\.com
 .*\baliyunedu\.net
@@ -10501,6 +10503,7 @@
 .*\baplusunion\.com
 .*\bapmarry\.com
 .*\bapmbooth\.com
+.*\bapmvista\.com
 .*\bapnring\.com
 .*\bapollo\.auto
 .*\bapous\.com
@@ -11752,6 +11755,7 @@
 .*\bbaofu\.com
 .*\bbaogang\.info
 .*\bbaogao\.com
+.*\bbaogaoting\.com
 .*\bbaoguangsi\.org
 .*\bbaohebao\.com
 .*\bbaohejr\.com
@@ -14962,7 +14966,6 @@
 .*\bcction\.com
 .*\bcctlife\.com
 .*\bcctocloud\.com
-.*\bcctourcollege\.com
 .*\bcctpress\.com
 .*\bcctry\.com
 .*\bcctsnw\.com
@@ -19690,7 +19693,6 @@
 .*\bczfesco-mg\.com
 .*\bczfrd\.com
 .*\bczggsj\.com
-.*\bczgjg\.com
 .*\bczgjj\.com
 .*\bczgjj\.net
 .*\bczgongzuo\.com
@@ -24413,6 +24415,7 @@
 .*\bfangbx\.com
 .*\bfangcang\.com
 .*\bfangchan\.com
+.*\bfangchanhz\.com
 .*\bfangchip\.com
 .*\bfangcloud\.com
 .*\bfangcs\.net
@@ -26619,7 +26622,6 @@
 .*\bgdsrcw\.com
 .*\bgdssl\.image-gmkt\.com
 .*\bgdstlab\.com
-.*\bgdstsj\.com
 .*\bgdswine\.com
 .*\bgdsxgd\.com
 .*\bgdsxingyi\.com
@@ -33286,6 +33288,7 @@
 .*\biicp\.net
 .*\biidns\.com
 .*\biidvd\.com
+.*\biiedns\.xyz
 .*\biiexe\.com
 .*\biifab\.com
 .*\biigs9\.com
@@ -35141,6 +35144,7 @@
 .*\bjgcqgf\.com
 .*\bjgdun\.com
 .*\bjgew3d\.com
+.*\bjgg09\.com
 .*\bjggame\.net
 .*\bjggjj\.com
 .*\bjgsdaily\.com
@@ -41086,6 +41090,7 @@
 .*\blongcheer\.com
 .*\blongchen80\.com
 .*\blongcity\.net
+.*\blongclouds\.com
 .*\blongcore\.com
 .*\blongdai\.com
 .*\blongdang\.org
@@ -46073,6 +46078,7 @@
 .*\bnujuya\.com
 .*\bnullice\.com
 .*\bnullno\.com
+.*\bnum1dns\.com
 .*\bnunu8\.com
 .*\bnuodasoft\.com
 .*\bnuodefund\.com
@@ -49792,6 +49798,7 @@
 .*\bqq190\.com
 .*\bqq2009\.com
 .*\bqq214\.com
+.*\bqq241\.com
 .*\bqq360wang\.com
 .*\bqq387\.com
 .*\bqq52o\.me
@@ -51443,6 +51450,7 @@
 .*\brunsky\.com
 .*\brunteam\.cc
 .*\bruntianhotel\.com
+.*\bruntime\.pw
 .*\bruntimeedu\.com
 .*\bruntimewh\.com
 .*\bruntronic\.com
@@ -57425,7 +57433,6 @@
 .*\btianxia\.la
 .*\btianxia360\.com
 .*\btianxiajiameng\.com
-.*\btianxian\.org
 .*\btianxianle\.com
 .*\btianxiawangxiao\.com
 .*\btianxiaxiao\.net
@@ -59629,6 +59636,7 @@
 .*\busakongjian\.net
 .*\busaliuxue\.com
 .*\busaobb\.com
+.*\busaphoenixnews\.com
 .*\busashopcn\.com
 .*\busbabyada\.com
 .*\busbing\.com
@@ -59941,6 +59949,7 @@
 .*\bvapee\.com
 .*\bvapps\.me
 .*\bvaptcha\.com
+.*\bvaptcha\.net
 .*\bvar4\.com
 .*\bvarena\.com
 .*\bvarhair\.com
@@ -60259,7 +60268,6 @@
 .*\bvipxdns\.net
 .*\bvipyl\.com
 .*\bvipyooni\.com
-.*\bvipyumingha\.com
 .*\bvipzhuanli\.com
 .*\bviqq\.com
 .*\bvirbox\.com
@@ -60466,6 +60474,7 @@
 .*\bvr-cat\.com
 .*\bvr1000\.com
 .*\bvr186\.com
+.*\bvr42\.com
 .*\bvr5008\.com
 .*\bvrar-expo\.com
 .*\bvrbeing\.com
@@ -61046,6 +61055,7 @@
 .*\bwanwanol\.com
 .*\bwanweipc\.com
 .*\bwanweixin\.com
+.*\bwanwudezhi\.com
 .*\bwanwushuo\.com
 .*\bwanwuxia\.com
 .*\bwanww\.com
@@ -62760,6 +62770,7 @@
 .*\bwoaifanyi\.com
 .*\bwoaihuahua\.com
 .*\bwoailuo\.com
+.*\bwoaipj\.com
 .*\bwoaipu\.com
 .*\bwoair\.com
 .*\bwoaishouban\.com
@@ -64791,6 +64802,7 @@
 .*\bxiazaidb\.com
 .*\bxiazaidc\.com
 .*\bxiazaidown\.com
+.*\bxiazaiduo\.com
 .*\bxiazaijia\.cc
 .*\bxiazaijidi\.com
 .*\bxiazailou88\.com
@@ -70912,7 +70924,6 @@
 .*\bzhong100\.com
 .*\bzhongan\.com
 .*\bzhongan\.io
-.*\bzhonganbj\.com
 .*\bzhongbaounion\.com
 .*\bzhongbowenwu\.com
 .*\bzhongbt\.com
