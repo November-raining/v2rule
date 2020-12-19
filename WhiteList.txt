@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-12-19
+## Last update: 2020-12-20
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -15283,7 +15283,6 @@
 .*\bcgchina\.net
 .*\bcgcloud\.net
 .*\bcgcountry\.com
-.*\bcgdns\.cc
 .*\bcgdown\.com
 .*\bcgdream\.org
 .*\bcgebook\.com
@@ -25144,6 +25143,7 @@
 .*\bflzsdq\.com
 .*\bfm0754\.com
 .*\bfm120\.com
+.*\bfm4399\.com
 .*\bfm520\.com
 .*\bfm918\.net
 .*\bfm960\.net
@@ -27349,7 +27349,6 @@
 .*\bgrablan\.com
 .*\bgrabsun\.com
 .*\bgracece\.com
-.*\bgracelv\.com
 .*\bgraceofholland\.org
 .*\bgracg\.com
 .*\bgradaimmi\.com
@@ -38146,7 +38145,6 @@
 .*\bkqiqi\.com
 .*\bkqiwen\.com
 .*\bkqj123\.com
-.*\bkqm8\.com
 .*\bkqqy\.com
 .*\bkqzjw\.com
 .*\bkqzlzx\.com
@@ -50034,6 +50032,7 @@
 .*\bqzoneapp\.com
 .*\bqzrbx\.com
 .*\bqzrc\.com
+.*\bqzrx\.net
 .*\bqzshangwu\.com
 .*\bqzwb\.com
 .*\bqzweizan\.com
@@ -52446,7 +52445,6 @@
 .*\bshengfanwang\.com
 .*\bshengguo\.net
 .*\bshenghan\.org
-.*\bshenghbsw\.com
 .*\bshenghefilms\.com
 .*\bshengheplastic\.com
 .*\bshenghui56\.com
@@ -55386,6 +55384,7 @@
 .*\bsxsim\.com
 .*\bsxsimg\.com
 .*\bsxsjgy\.com
+.*\bsxslnews\.com
 .*\bsxsoft\.com
 .*\bsxszw\.net
 .*\bsxtppm\.com
@@ -56244,6 +56243,7 @@
 .*\btapimg\.com
 .*\btapotiexie\.com
 .*\btapque\.com
+.*\btaptap-api\.com
 .*\btaptap\.com
 .*\btaptapcode\.com
 .*\btaptapdada\.com
@@ -57462,6 +57462,7 @@
 .*\btongxinky\.com
 .*\btongxinmao\.com
 .*\btongxinteng\.com
+.*\btongxiong\.com
 .*\btongxue\.com
 .*\btongxue365\.com
 .*\btongyavisa\.com
@@ -59996,6 +59997,7 @@
 .*\bvsread\.com
 .*\bvst\.cc
 .*\bvst5\.com
+.*\bvstab\.com
 .*\bvstart\.net
 .*\bvstecs\.com
 .*\bvstmv\.com

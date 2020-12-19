@@ -15310,7 +15310,6 @@ cgboo.com
 cgchina.net
 cgcloud.net
 cgcountry.com
-cgdns.cc
 cgdown.com
 cgdream.org
 cgebook.com
@@ -25201,6 +25200,7 @@ flzhan.com
 flzsdq.com
 fm0754.com
 fm120.com
+fm4399.com
 fm520.com
 fm918.net
 fm960.net
@@ -27413,7 +27413,6 @@ gqzzw.com
 grablan.com
 grabsun.com
 gracece.com
-gracelv.com
 graceofholland.org
 gracg.com
 gradaimmi.com
@@ -38271,7 +38270,6 @@ kqidong.com
 kqiqi.com
 kqiwen.com
 kqj123.com
-kqm8.com
 kqqy.com
 kqzjw.com
 kqzlzx.com
@@ -50174,6 +50172,7 @@ qzone.com
 qzoneapp.com
 qzrbx.com
 qzrc.com
+qzrx.net
 qzshangwu.com
 qzwb.com
 qzweizan.com
@@ -52598,7 +52597,6 @@ shengdianhuadk.com
 shengfanwang.com
 shengguo.net
 shenghan.org
-shenghbsw.com
 shenghefilms.com
 shengheplastic.com
 shenghui56.com
@@ -55556,6 +55554,7 @@ sxshu.com
 sxsim.com
 sxsimg.com
 sxsjgy.com
+sxslnews.com
 sxsoft.com
 sxszw.net
 sxtppm.com
@@ -56414,6 +56413,7 @@ tapenjoy.com
 tapimg.com
 tapotiexie.com
 tapque.com
+taptap-api.com
 taptap.com
 taptapcode.com
 taptapdada.com
@@ -57632,6 +57632,7 @@ tongxinghui.com
 tongxinky.com
 tongxinmao.com
 tongxinteng.com
+tongxiong.com
 tongxue.com
 tongxue365.com
 tongyavisa.com
@@ -60175,6 +60176,7 @@ vspsa.com
 vsread.com
 vst.cc
 vst5.com
+vstab.com
 vstart.net
 vstecs.com
 vstmv.com
