@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-12-29
+## Last update: 2020-12-30
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1269,6 +1269,7 @@
 .*\b11lizhi\.com
 .*\b11lx\.com
 .*\b11my\.net
+.*\b11pdf\.com
 .*\b11player\.com
 .*\b11qp94\.com
 .*\b11space\.com
@@ -4210,6 +4211,7 @@
 .*\b49jie\.com
 .*\b49pic\.com
 .*\b49syw\.com
+.*\b49w\.cc
 .*\b49wanwan\.com
 .*\b49you\.com
 .*\b49yu\.com
@@ -7025,6 +7027,7 @@
 .*\b8090\.com
 .*\b8090\.pk
 .*\b8090\.so
+.*\b8090120\.com
 .*\b8090app\.com
 .*\b8090cdn\.com
 .*\b8090mt\.com
@@ -11867,6 +11870,7 @@
 .*\bbdfzcd\.net
 .*\bbdfzgz\.net
 .*\bbdfzxj\.net
+.*\bbdgns\.com
 .*\bbdgslb\.com
 .*\bbdhaoye\.com
 .*\bbdhuakan\.com
@@ -11896,7 +11900,6 @@
 .*\bbdtic\.com
 .*\bbdtkba\.com
 .*\bbdtm\.net
-.*\bbdtools\.xyz
 .*\bbdurl\.net
 .*\bbdwater\.com
 .*\bbdwm\.net
@@ -12913,6 +12916,7 @@
 .*\bbjmeikao\.com
 .*\bbjmeileju\.com
 .*\bbjmepin\.com
+.*\bbjmeri\.org
 .*\bbjmjm\.com
 .*\bbjmslp\.com
 .*\bbjmti\.com
@@ -16208,6 +16212,7 @@
 .*\bchinahightech\.com
 .*\bchinahighway\.com
 .*\bchinahkidc\.net
+.*\bchinahlwyy\.com
 .*\bchinahnjob\.com
 .*\bchinahnjs\.com
 .*\bchinahorse\.org
@@ -17088,6 +17093,7 @@
 .*\bcivclub\.net
 .*\bcivilcn\.com
 .*\bcivilness\.com
+.*\bciviw\.com
 .*\bciweek\.com
 .*\bciweekly\.com
 .*\bciwei\.me
@@ -21181,6 +21187,7 @@
 .*\bdlsqb\.com
 .*\bdlssa\.com
 .*\bdlsstax\.com
+.*\bdlsunworld\.com
 .*\bdlszywz\.com
 .*\bdltobacco\.com
 .*\bdltubu\.com
@@ -23664,7 +23671,6 @@
 .*\betu6\.com
 .*\betuan\.com
 .*\betudu\.com
-.*\betufo\.org
 .*\betulink\.com
 .*\betulinktechnology\.com
 .*\betuonet\.com
@@ -26820,7 +26826,6 @@
 .*\bglobalstech\.com
 .*\bglobeauto\.org
 .*\bglobeedu\.com
-.*\bglobeexhibit\.com
 .*\bglobeimmi\.com
 .*\bglobepv\.com
 .*\bglobipo\.com
@@ -27091,6 +27096,7 @@
 .*\bgongzicp\.com
 .*\bgongzifu\.com
 .*\bgongzuoshouji\.net
+.*\bgongzuoyun\.org
 .*\bgonsun\.com
 .*\bgonvvama\.net
 .*\bgonxhn\.com
@@ -33619,6 +33625,7 @@
 .*\bippzone\.com
 .*\bipr114\.net
 .*\bipr123\.com
+.*\bipr66\.com
 .*\biprchn\.com
 .*\biprdaily\.com
 .*\bipresst\.com
@@ -40901,6 +40908,7 @@
 .*\blrc99\.com
 .*\blrcb\.net
 .*\blrcgc\.com
+.*\blrcku\.com
 .*\blrd\.cc
 .*\blrdzt\.com
 .*\blread\.net
@@ -46065,6 +46073,7 @@
 .*\bonevcat\.com
 .*\boneway\.mobi
 .*\bonewrt\.com
+.*\bonewsvod\.com
 .*\bonex\.im
 .*\bonexinli\.com
 .*\bonexmail\.com
@@ -46276,6 +46285,7 @@
 .*\bos-easy\.com
 .*\bos-v\.com
 .*\bos7blue\.com
+.*\bosall\.com
 .*\bosbccdn\.com
 .*\bosbean\.com
 .*\bosbzr\.com
@@ -51265,6 +51275,7 @@
 .*\bsayabear\.com
 .*\bsayloving\.com
 .*\bsaywash\.com
+.*\bsb1152\.com
 .*\bsb580\.com
 .*\bsb6189\.com
 .*\bsbanfu\.com
@@ -53134,6 +53145,7 @@
 .*\bshvlee\.com
 .*\bshwcfck\.com
 .*\bshwdbjgs\.com
+.*\bshweiya\.com
 .*\bshwglm\.com
 .*\bshwpbbs\.com
 .*\bshwqjx\.com
@@ -54184,7 +54196,6 @@
 .*\bsoppt\.com
 .*\bsopuning\.com
 .*\bsoq\.com
-.*\bsoq8\.net
 .*\bsoqicrm\.com
 .*\bsoquair\.com
 .*\bsorazone\.com
@@ -61130,6 +61141,7 @@
 .*\bwenkudaquan\.com
 .*\bwenkumao\.com
 .*\bwenkuwenku\.com
+.*\bwenkuxiazai\.net
 .*\bwenlc\.com
 .*\bwenliku\.com
 .*\bwenmeng\.com
@@ -63086,6 +63098,7 @@
 .*\bx12plus\.com
 .*\bx158\.tv
 .*\bx1997\.net
+.*\bx2279\.com
 .*\bx23qb\.com
 .*\bx23us\.cc
 .*\bx23us\.me
@@ -67183,6 +67196,7 @@
 .*\byizenb\.com
 .*\byizhanzx\.com
 .*\byizhchan\.com
+.*\byizheyikou\.com
 .*\byizhi-its\.com
 .*\byizhibi\.com
 .*\byizhibo\.com
@@ -69498,6 +69512,8 @@
 .*\bzglzb\.com
 .*\bzgmcxw\.com
 .*\bzgmdbw\.com
+.*\bzgmsbw\.com
+.*\bzgmsbweb\.com
 .*\bzgmxl\.com
 .*\bzgmzyx\.com
 .*\bzgncjr\.com
