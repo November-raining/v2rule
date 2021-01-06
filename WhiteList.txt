@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-01-06
+## Last update: 2021-01-07
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1313,7 +1313,6 @@
 .*\b12225\.com
 .*\b12226\.com
 .*\b12227\.com
-.*\b12248\.net
 .*\b122park\.com
 .*\b122wz\.com
 .*\b123-789\.com
@@ -6268,7 +6267,6 @@
 .*\b66you\.com
 .*\b66ys\.cc
 .*\b66ys\.co
-.*\b66ys\.tv
 .*\b66zhang\.com
 .*\b66zhizu\.com
 .*\b66zhuang\.com
@@ -7285,7 +7283,6 @@
 .*\b8825\.com
 .*\b8828dl\.com
 .*\b8828xljcw\.com
-.*\b882yishenghuo\.com
 .*\b88303887\.com
 .*\b88360\.com
 .*\b884109\.com
@@ -12767,6 +12764,7 @@
 .*\bbjepn\.com
 .*\bbjewaytek\.com
 .*\bbjexmail\.com
+.*\bbjexx\.com
 .*\bbjfengguang\.com
 .*\bbjffdz\.com
 .*\bbjffkj\.com
@@ -15167,7 +15165,6 @@
 .*\bcfxydefsyy\.com
 .*\bcfxyfsyy\.com
 .*\bcfxyjy\.com
-.*\bcfycf\.com
 .*\bcfyjzb\.com
 .*\bcfzb\.org
 .*\bcfzjxxw\.com
@@ -18274,7 +18271,6 @@
 .*\bcom-youku\.net
 .*\bcom\.fi
 .*\bcom\.tv
-.*\bcom01\.org
 .*\bcom126\.com
 .*\bcom21\.com
 .*\bcom4loves\.com
@@ -20451,7 +20447,6 @@
 .*\bdfbgv\.com
 .*\bdfcfw\.com
 .*\bdfcx-bj\.com
-.*\bdfd88\.com
 .*\bdfdaily\.com
 .*\bdfdjy\.net
 .*\bdfedu\.com
@@ -45621,7 +45616,6 @@
 .*\bobjcer\.com
 .*\bobjcoding\.com
 .*\bobjectyan\.me
-.*\bobjweb\.com
 .*\bobkoro1\.com
 .*\bobkprint\.com
 .*\bobolee\.com
@@ -47169,6 +47163,7 @@
 .*\bpilifx\.com
 .*\bpillow2\.com
 .*\bpimei\.com
+.*\bpimg\.tw
 .*\bpin-ad\.com
 .*\bpin-color\.net
 .*\bpin-guan\.com
@@ -47304,11 +47299,16 @@
 .*\bpisx\.com
 .*\bpiworker\.com
 .*\bpix2code\.net
+.*\bpixanalytics\.com
 .*\bpixelauth\.com
+.*\bpixfs\.net
 .*\bpixhey\.com
 .*\bpixivacg\.com
 .*\bpixivic\.com
 .*\bpixivic\.net
+.*\bpixnet\.cc
+.*\bpixnet\.in
+.*\bpixplug\.in
 .*\bpiyingke\.com
 .*\bpiyipiba\.com
 .*\bpj\.com
@@ -53478,7 +53478,6 @@
 .*\bsketchchina\.net
 .*\bsketchcn\.com
 .*\bsketchui\.net
-.*\bsketchup10\.com
 .*\bsketchupbar\.com
 .*\bsketchupbbs\.com
 .*\bskg\.com
@@ -55963,6 +55962,7 @@
 .*\btaotieren\.com
 .*\btaotiwang\.com
 .*\btaotu8\.net
+.*\btaotumowang\.com
 .*\btaotuwu\.com
 .*\btaou\.com
 .*\btaowenxue\.com

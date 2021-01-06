@@ -1307,7 +1307,6 @@
 12225.com
 12226.com
 12227.com
-12248.net
 122park.com
 122wz.com
 123-789.com
@@ -6264,7 +6263,6 @@
 66you.com
 66ys.cc
 66ys.co
-66ys.tv
 66zhang.com
 66zhizu.com
 66zhuang.com
@@ -7281,7 +7279,6 @@
 8825.com
 8828dl.com
 8828xljcw.com
-882yishenghuo.com
 88303887.com
 88360.com
 884109.com
@@ -12779,6 +12776,7 @@ bjeasycom.com
 bjepn.com
 bjewaytek.com
 bjexmail.com
+bjexx.com
 bjfengguang.com
 bjffdz.com
 bjffkj.com
@@ -15194,7 +15192,6 @@ cfwaf.com
 cfxydefsyy.com
 cfxyfsyy.com
 cfxyjy.com
-cfycf.com
 cfyjzb.com
 cfzb.org
 cfzjxxw.com
@@ -18318,7 +18315,6 @@ com-youku.com
 com-youku.net
 com.fi
 com.tv
-com01.org
 com126.com
 com21.com
 com4loves.com
@@ -20503,7 +20499,6 @@ dfafei.com
 dfbgv.com
 dfcfw.com
 dfcx-bj.com
-dfd88.com
 dfdaily.com
 dfdjy.net
 dfedu.com
@@ -45750,7 +45745,6 @@ objccn.io
 objcer.com
 objcoding.com
 objectyan.me
-objweb.com
 obkoro1.com
 obkprint.com
 obolee.com
@@ -47307,6 +47301,7 @@ pilifu.com
 pilifx.com
 pillow2.com
 pimei.com
+pimg.tw
 pin-ad.com
 pin-color.net
 pin-guan.com
@@ -47442,11 +47437,16 @@ piqs.com
 pisx.com
 piworker.com
 pix2code.net
+pixanalytics.com
 pixelauth.com
+pixfs.net
 pixhey.com
 pixivacg.com
 pixivic.com
 pixivic.net
+pixnet.cc
+pixnet.in
+pixplug.in
 piyingke.com
 piyipiba.com
 pj.com
@@ -53630,7 +53630,6 @@ sketchchina.com
 sketchchina.net
 sketchcn.com
 sketchui.net
-sketchup10.com
 sketchupbar.com
 sketchupbbs.com
 skg.com
@@ -56133,6 +56132,7 @@ taotaosou.com
 taotieren.com
 taotiwang.com
 taotu8.net
+taotumowang.com
 taotuwu.com
 taou.com
 taowenxue.com
