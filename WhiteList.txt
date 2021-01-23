@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-01-23
+## Last update: 2021-01-24
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3290,7 +3290,6 @@
 .*\b360114\.com
 .*\b360118\.com
 .*\b3602wan\.com
-.*\b360500\.com
 .*\b36099\.com
 .*\b360abc\.com
 .*\b360aiyi\.com
@@ -3610,7 +3609,6 @@
 .*\b37k\.com
 .*\b37live\.com
 .*\b37med\.com
-.*\b37play\.cc
 .*\b37pps\.com
 .*\b37rj\.com
 .*\b37see\.com
@@ -4923,7 +4921,6 @@
 .*\b51zhujia\.com
 .*\b51zixuewang\.com
 .*\b51zjxm\.com
-.*\b51zjxz\.com
 .*\b51zmt\.net
 .*\b51zpyc\.com
 .*\b51zr\.com
@@ -5559,6 +5556,7 @@
 .*\b58921\.com
 .*\b5898yun\.com
 .*\b58abb\.com
+.*\b58bangmang\.com
 .*\b58bo\.com
 .*\b58buy\.com
 .*\b58che\.com
@@ -7176,7 +7174,6 @@
 .*\b87ma\.com
 .*\b87money\.com
 .*\b87pk\.com
-.*\b87x6w\.buzz
 .*\b87xue\.com
 .*\b87yy\.com
 .*\b88-z\.com
@@ -7738,7 +7735,6 @@
 .*\b92jn\.com
 .*\b92kaifa\.com
 .*\b92kk\.com
-.*\b92kor\.com
 .*\b92le\.com
 .*\b92lm\.com
 .*\b92lucky\.com
@@ -8837,6 +8833,7 @@
 .*\bafuchina\.com
 .*\bafunan\.com
 .*\bafunapp\.com
+.*\bafvdrf\.vip
 .*\bafxbbs\.com
 .*\bafzhan\.com
 .*\bag17\.wang
@@ -12424,7 +12421,6 @@
 .*\bbirdol\.com
 .*\bbirdpush\.com
 .*\bbirdteam\.net
-.*\bbirthcontrolpharm\.com
 .*\bbisairi\.com
 .*\bbisenet\.com
 .*\bbishe1234\.com
@@ -13339,7 +13335,6 @@
 .*\bbreakingnewsireland\.com
 .*\bbreakyizhan\.com
 .*\bbrentron\.com
-.*\bbrfaka\.com
 .*\bbricktou\.com
 .*\bbridgee\.net
 .*\bbridgetiger\.com
@@ -17017,6 +17012,8 @@
 .*\bcloudp\.cc
 .*\bcloudpense\.com
 .*\bcloudphotoes\.com
+.*\bcloudpnr\.com
+.*\bcloudpsvn\.com
 .*\bcloudroom\.com
 .*\bcloudsation\.com
 .*\bcloudsea\.org
@@ -18299,6 +18296,7 @@
 .*\bcps800\.com
 .*\bcpsbeijing\.org
 .*\bcpsct\.com
+.*\bcpsenglish\.com
 .*\bcptae\.com
 .*\bcptxn\.com
 .*\bcpu668\.com
@@ -18769,6 +18767,7 @@
 .*\bcteaw\.com
 .*\bctecdcs\.com
 .*\bctex\.org
+.*\bctfgjp\.vip
 .*\bctfile\.com
 .*\bctfile\.net
 .*\bctflife\.com
@@ -19654,6 +19653,7 @@
 .*\bdastann\.com
 .*\bdasung\.com
 .*\bdasungtech\.com
+.*\bdat8\.cc
 .*\bdata380\.com
 .*\bdata985\.com
 .*\bdatacaciques\.com
@@ -20065,7 +20065,6 @@
 .*\bdemogic\.com
 .*\bdemohour\.com
 .*\bdemopu\.com
-.*\bdemorush\.com
 .*\bdemoso\.net
 .*\bdemososo\.com
 .*\bdenganliang\.com
@@ -21318,6 +21317,7 @@
 .*\bdoumengkeji\.mobi
 .*\bdoumi\.com
 .*\bdoumistatic\.com
+.*\bdoumobsix\.site
 .*\bdoumobtech\.online
 .*\bdoupai\.cc
 .*\bdoupir\.com
@@ -23754,7 +23754,6 @@
 .*\bfangshuitan888\.com
 .*\bfangsi\.net
 .*\bfangstar\.com
-.*\bfangsw\.com
 .*\bfangtan007\.com
 .*\bfangtangtv\.com
 .*\bfangte\.com
@@ -24098,7 +24097,6 @@
 .*\bfeibisi\.org
 .*\bfeibit\.com
 .*\bfeibo\.com
-.*\bfeichang71\.com
 .*\bfeichangzhuan\.com
 .*\bfeicool\.com
 .*\bfeicui168\.com
@@ -24122,6 +24120,7 @@
 .*\bfeiffy\.cc
 .*\bfeifustudio\.com
 .*\bfeige\.ee
+.*\bfeigedaojia\.com
 .*\bfeigesp\.com
 .*\bfeihu\.me
 .*\bfeihuo\.com
@@ -24549,6 +24548,7 @@
 .*\bfjhxcaee\.com
 .*\bfjii\.com
 .*\bfjjcjy\.com
+.*\bfjjmnh\.com
 .*\bfjjsp01\.com
 .*\bfjjsrckj\.com
 .*\bfjjszg\.com
@@ -25013,7 +25013,6 @@
 .*\bfsacn\.com
 .*\bfsaligzf\.com
 .*\bfsbankonline\.com
-.*\bfsbeisuda\.com
 .*\bfsbus\.com
 .*\bfsc555\.com
 .*\bfsccsi\.com
@@ -26971,7 +26970,6 @@
 .*\bgsdk\.tv
 .*\bgsdlcn\.com
 .*\bgsdpw\.com
-.*\bgsetoo\.com
 .*\bgsflcp\.com
 .*\bgsgs10086\.com
 .*\bgshhqy\.com
@@ -30994,7 +30992,6 @@
 .*\bhuizhan-inc\.com
 .*\bhuizhaofang\.com
 .*\bhuizhek\.com
-.*\bhuizheko\.com
 .*\bhuizhekou\.net
 .*\bhuizhijiaxun\.com
 .*\bhuizhimob\.com
@@ -31300,6 +31297,7 @@
 .*\bhxjlhn\.com
 .*\bhxkvm\.com
 .*\bhxland\.com
+.*\bhxlover\.com
 .*\bhxlsw\.com
 .*\bhxltad\.com
 .*\bhxmeishi\.com
@@ -31803,7 +31801,6 @@
 .*\bicfcc\.com
 .*\bicfqs\.com
 .*\bicfusions\.com
-.*\bicgecm\.com
 .*\bicgoo\.net
 .*\bicgu\.com
 .*\bicgvisa\.com
@@ -35715,6 +35712,7 @@
 .*\bjsmjys\.com
 .*\bjsmo\.xin
 .*\bjsmsg\.com
+.*\bjsmxkj\.com
 .*\bjsmxw\.com
 .*\bjsncke\.com
 .*\bjsneco\.com
@@ -36391,7 +36389,6 @@
 .*\bk369\.com
 .*\bk3851\.com
 .*\bk3887\.com
-.*\bk429fma\.com
 .*\bk4nz\.com
 .*\bk5\.cc
 .*\bk518\.com
@@ -36730,7 +36727,6 @@
 .*\bkbscloud\.com
 .*\bkbuifw\.com
 .*\bkbyun\.com
-.*\bkcadj\.com
 .*\bkcdns\.net
 .*\bkcdnvip\.com
 .*\bkchance\.com
@@ -37837,7 +37833,6 @@
 .*\bkuwanbang\.com
 .*\bkuwen\.net
 .*\bkuxiaoji\.com
-.*\bkuxiaoshuo\.com
 .*\bkuxuexi\.com
 .*\bkuyh\.com
 .*\bkuyibu\.com
@@ -38126,7 +38121,6 @@
 .*\blangfang\.com
 .*\blangfangfc\.com
 .*\blangfly\.com
-.*\blanggo\.org
 .*\blangke\.com
 .*\blangke\.tv
 .*\blanglang\.cc
@@ -39399,7 +39393,6 @@
 .*\blinux-ren\.org
 .*\blinux\.dog
 .*\blinux\.zone
-.*\blinux00\.com
 .*\blinux178\.com
 .*\blinux265\.com
 .*\blinux5\.net
@@ -40338,7 +40331,6 @@
 .*\bluandouxiyoulibao\.com
 .*\bluaninfo\.com
 .*\bluanren\.com
-.*\bluanzx\.com
 .*\bluastudio\.net
 .*\blubandata\.com
 .*\blubanjianye\.com
@@ -41540,7 +41532,6 @@
 .*\bmdy-edu\.com
 .*\bmdybk\.com
 .*\bme-city\.com
-.*\bme2log\.com
 .*\bme361\.com
 .*\bme4399\.com
 .*\bme97\.com
@@ -41642,6 +41633,7 @@
 .*\bmeiguofeier\.com
 .*\bmeiguoxiaoxue\.com
 .*\bmeiguozhuji\.com
+.*\bmeigushe\.com
 .*\bmeih5\.com
 .*\bmeih5\.net
 .*\bmeihaotoutiao\.com
@@ -42986,6 +42978,7 @@
 .*\bmovcms\.com
 .*\bmovesee\.com
 .*\bmovesky\.net
+.*\bmoviemeng\.com
 .*\bmoviemore\.com
 .*\bmovieppp\.com
 .*\bmovit-tech\.com
@@ -46028,7 +46021,6 @@
 .*\bpatindex\.com
 .*\bpatmm\.com
 .*\bpatos\.cc
-.*\bpatrishost\.com
 .*\bpatsev\.com
 .*\bpatsnapglobal\.com
 .*\bpautoclub\.com
@@ -47422,7 +47414,6 @@
 .*\bpz6682\.com
 .*\bpz7377\.com
 .*\bpz7533\.com
-.*\bpz7775\.com
 .*\bpz779\.com
 .*\bpz81\.com
 .*\bpz88\.com
@@ -47623,7 +47614,6 @@
 .*\bqdyxbyy\.com
 .*\bqdyyjj\.com
 .*\bqdzhengkang\.com
-.*\bqdzhongli\.com
 .*\bqdzmm\.com
 .*\bqdznjt\.com
 .*\bqdzxyy\.com
@@ -48625,6 +48615,7 @@
 .*\bqqwmx\.com
 .*\bqqwtb\.com
 .*\bqqwwr\.com
+.*\bqqwx8\.xyz
 .*\bqqwxmail\.com
 .*\bqqxiazai\.com
 .*\bqqxifan\.com
@@ -51137,7 +51128,6 @@
 .*\bsgcn\.com
 .*\bsgcyjy\.com
 .*\bsgda\.cc
-.*\bsgdianzi\.com
 .*\bsgdmobile\.com
 .*\bsge\.sh
 .*\bsghnny\.com
@@ -53007,7 +52997,6 @@
 .*\bsmsx\.org
 .*\bsmsyun\.cc
 .*\bsmszf\.com
-.*\bsmt-bonding\.com
 .*\bsmt-dip\.com
 .*\bsmt-job\.com
 .*\bsmtcdns\.com
@@ -54493,7 +54482,6 @@
 .*\bsyitu\.com
 .*\bsyjcxs\.com
 .*\bsyjiancai\.com
-.*\bsyjingmei\.com
 .*\bsyjkqzw\.com
 .*\bsykong\.com
 .*\bsylixos\.com
@@ -57580,7 +57568,6 @@
 .*\bu21a\.com
 .*\bu22e\.com
 .*\bu2j2ha\.com
-.*\bu38sn2a\.com
 .*\bu3dc\.com
 .*\bu3dol\.com
 .*\bu3v3\.com
@@ -57732,7 +57719,6 @@
 .*\bueibo\.com
 .*\buelike\.com
 .*\buemo\.net
-.*\buen2sxi\.com
 .*\buepei\.com
 .*\bueren\.com
 .*\buestcedu\.com
@@ -58147,7 +58133,6 @@
 .*\busee123\.com
 .*\buserhostting\.com
 .*\busermessage\.net
-.*\busermore\.com
 .*\buserpostfix\.com
 .*\buserresearch\.net
 .*\buseso\.com
@@ -58402,7 +58387,6 @@
 .*\bvan-u\.com
 .*\bvanbaolu\.com
 .*\bvance-commerce\.com
-.*\bvanceusa\.com
 .*\bvanch\.net
 .*\bvancharts\.com
 .*\bvanchhandheld\.com
@@ -59130,7 +59114,6 @@
 .*\bw3tong\.com
 .*\bw3tt\.com
 .*\bw3xue\.com
-.*\bw4o2ms\.com
 .*\bw7\.cc
 .*\bw7000\.com
 .*\bw8xitong\.com
@@ -59891,6 +59874,7 @@
 .*\bweifengke\.com
 .*\bweifengou\.com
 .*\bweifengtang\.com
+.*\bweifengtianxia\.com
 .*\bweigang\.com
 .*\bweigongju\.org
 .*\bweigongxue\.com
@@ -60382,7 +60366,6 @@
 .*\bwgxdxx\.com
 .*\bwgxy\.com
 .*\bwgxy\.net
-.*\bwgzmb\.wang
 .*\bwh-baidu\.com
 .*\bwh-charity\.com
 .*\bwh-china\.com
@@ -64276,6 +64259,7 @@
 .*\bxshengyan\.com
 .*\bxshenshu\.com
 .*\bxshkvip\.com
+.*\bxshouyi\.com
 .*\bxshulin\.com
 .*\bxshuma\.com
 .*\bxshuoba\.com
