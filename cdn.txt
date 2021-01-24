@@ -3513,7 +3513,6 @@
 365zzd.com
 3663.com
 366300.com
-366980.com
 366ec.com
 366translation.com
 36706.com
@@ -3807,7 +3806,6 @@
 3ko.com
 3kongjian.com
 3kwf.com
-3kzhushou.com
 3laohu.com
 3laz.com
 3lbrand.com
@@ -9026,7 +9024,6 @@ aicode.cc
 aicoinstorge.com
 aicsnet.com
 aicu8.com
-aicukg.com
 aicunfu.com
 aidafen.com
 aidai.com
@@ -10276,6 +10273,7 @@ applicationloader.net
 applinzi.com
 applysquare.com
 applysquare.net
+appmifile.com
 appnode.com
 appnz.com
 appotronics.com
@@ -10395,7 +10393,6 @@ ariesmob.com
 arinchina.com
 aris.la
 arisastar.com
-ark.intel.com
 arkfeng.xyz
 arkoo.com
 arkrdigital.com
@@ -10914,8 +10911,6 @@ b2sun.cc
 b301.cc
 b35ii.com
 b3inside.com
-b3log.org
-b3logfile.com
 b5200.net
 b58b.com
 b5b6.com
@@ -13376,7 +13371,6 @@ brzhang.club
 bs-dolfin.net
 bs008.com
 bs56.net
-bs699.com
 bsbchina.com
 bsbydd.com
 bsccdn.com
@@ -18661,7 +18655,6 @@ csebank.com
 csflgg.com
 csfqw.com
 csftyy.com
-csgc365.com
 csgm168.com
 csgpc.org
 csgwbn.com
@@ -20795,6 +20788,7 @@ djduoduo.com
 djec.net
 djfsm.com
 djhgyy.com
+djhuying.com
 djjw.com
 djkk.com
 djkpai.com
@@ -22785,7 +22779,6 @@ ehuzhu.com
 ehvacr.com
 ei6nd.com
 eiabbs.net
-eicbs.com
 eickaopei.com
 eicodesign.com
 eicp.net
@@ -23455,7 +23448,6 @@ ewteacher.com
 ewuqa.com
 ex-silver.com
 ex-starch.com
-ex2tron.wang
 exam58.com
 exam76.com
 exam8.com
@@ -29968,7 +29960,6 @@ hnyh.net
 hnyingfang.com
 hnyinhan.com
 hnyouneng.com
-hnyredu.com
 hnyuandian.com
 hnyugame.com
 hnyumantang.com
@@ -30156,7 +30147,6 @@ hoofei.com
 hoogge.com
 hookbase.com
 hookdll.com
-hookqq.com
 hoolai.com
 hoolaigames.com
 hoolo.tv
@@ -37093,7 +37083,6 @@ kgimg.com
 kgogame.com
 kgula.com
 kguowai.com
-khbj.net
 khdatasolutions.com
 khdmw.com
 khesport.com
@@ -37323,7 +37312,6 @@ kl1l5.com
 kl321.com
 kl688.com
 kl800.com
-kl8848.vip
 klandk.com
 klarini.com
 kldjy.com
@@ -38560,7 +38548,6 @@ lczyy.com
 ld0766.com
 ld12366.com
 ld1725.com
-ld246.com
 lday.me
 ldcache.net
 ldcang.com
@@ -41973,7 +41960,6 @@ mengxiangsky2458.com
 mengyoo.com
 mengyou.org
 mengyuzhe.com
-mengz.me
 mengzhou.com
 mengzhuangxiu.com
 mengzhuboke.com
@@ -44445,7 +44431,6 @@ nihuwo.net
 niiwoo.com
 nikanpian.com
 nikefree-run.net
-nikesneakersjapan.com
 nikest.com
 nikever.com
 nikkiup2u2.com
@@ -46693,7 +46678,6 @@ pingapple.com
 pingcap.com
 pingcegu.com
 pingcoo.com
-pingfandeshijie.net
 pingfangx.com
 pingfenbang.com
 pinggu.com
@@ -50013,7 +49997,6 @@ router.fun
 router.tw
 routeryun.com
 routewize.com
-routinepanic.com
 routingeye.com
 rouwen.net
 rouzip.com
@@ -53418,7 +53401,6 @@ songyi.net
 songyongzhi.com
 songyuan163.com
 songyutech.com
-songzh.com
 songzhaopian.com
 songzi100.com
 songziren.com
@@ -54811,7 +54793,6 @@ szgdsdkj.com
 szgft.com
 szgftz.com
 szgla.com
-szgldh.com
 szguanai.com
 szgwsd.com
 szhdlm.com
@@ -56567,7 +56548,6 @@ tongbanjie.com
 tongbanjie.info
 tongbaoyun.com
 tongbiancha.com
-tongbo090.com
 tongbu.com
 tongbulv.com
 tongbupan.com
@@ -59279,7 +59259,6 @@ w7.cc
 w7000.com
 w8xitong.com
 w918.com
-w9q21.com
 wa-ai.com
 wa5.com
 wa5as4.com
@@ -61126,7 +61105,6 @@ witkey.com
 witmart.net
 witontek.com
 witown.com
-witpark.com
 witspring.com
 wiwide.com
 wiyeniao.com
@@ -62018,7 +61996,6 @@ www-689777.com
 www-706705.com
 www-api.ibm.com
 www-googletagmanager.l.google.com
-www-ssl.intel.com
 www.adobe.com
 www.agoda.com
 www.akamai.com
@@ -62040,7 +62017,6 @@ www.htc.com
 www.htcsense.com
 www.htcvive.com
 www.ibm.com
-www.intel.com
 www.kaspersky.com
 www.microsoft.com
 www.nike.com
@@ -64583,6 +64559,7 @@ xuechela.com
 xuechenlei.com
 xueda.com
 xuedi.com
+xuedong97.com
 xueepay.com
 xueersen.com
 xueersi.com
@@ -65709,7 +65686,6 @@ yh88e.com
 yh99.cc
 yhachina.com
 yhbimg.com
-yhc688.com
 yhcko.com
 yhcmovie.com
 yhcqw.com
@@ -66746,7 +66722,6 @@ youda8.com
 youdaihe.com
 youdaili.net
 youdaiw.com
-youdaiyan.com
 youdao.com
 youdaojr.com
 youdaolvshi.com
@@ -67730,7 +67705,6 @@ yunxiaoge.net
 yunxin123.com
 yunxindai.com
 yunxinshi.com
-yunxinwang.com
 yunxs.com
 yunxuetang.com
 yunxzb.com
