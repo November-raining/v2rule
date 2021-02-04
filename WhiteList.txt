@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-02-04
+## Last update: 2021-02-05
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -9753,7 +9753,6 @@
 .*\banfang6688\.com
 .*\banfantech\.com
 .*\banfensi\.com
-.*\banfone\.net
 .*\bangeeks\.com
 .*\bangel-game\.net
 .*\bangel-usa\.com
@@ -12261,7 +12260,6 @@
 .*\bbinospace\.com
 .*\bbinpang\.me
 .*\bbinqsoft\.com
-.*\bbinstream\.live
 .*\bbintoutiao\.com
 .*\bbinuoniu\.com
 .*\bbinvul\.com
@@ -20820,6 +20818,7 @@
 .*\bdndci\.com
 .*\bdndiy\.net
 .*\bdnf8\.com
+.*\bdnfly\.net
 .*\bdnfziliao\.com
 .*\bdngjxx\.com
 .*\bdngpz\.com
@@ -21031,7 +21030,6 @@
 .*\bdongbao120\.com
 .*\bdongbeiol\.com
 .*\bdongbeishifandaxue\.com
-.*\bdongbeisurewin\.com
 .*\bdongbucaijing\.com
 .*\bdongcai\.net
 .*\bdongchedi\.com
@@ -43480,7 +43478,6 @@
 .*\bmywakao\.com
 .*\bmywang\.net
 .*\bmywayboo\.net
-.*\bmywebpage2\.com
 .*\bmyweimai\.com
 .*\bmywll\.com
 .*\bmywood\.cc
@@ -45247,6 +45244,7 @@
 .*\bopen-falcon\.com
 .*\bopen-falcon\.org
 .*\bopen-open\.com
+.*\bopen189\.net
 .*\bopenasic\.org
 .*\bopenbayes\.com
 .*\bopenbiox\.org
@@ -50267,7 +50265,6 @@
 .*\bsapzh\.com
 .*\bsaraba1st\.com
 .*\bsarft\.net
-.*\bsasa123\.com
 .*\bsasee\.org
 .*\bsass\.hk
 .*\bsasschina\.com
@@ -51906,7 +51903,9 @@
 .*\bshuabuapp\.com
 .*\bshuadanfu\.com
 .*\bshuai\.so
+.*\bshuai\.win
 .*\bshuaibo\.wang
+.*\bshuaigay\.com
 .*\bshuaigay\.nl
 .*\bshuaigay1\.com
 .*\bshuaigeshe\.com
@@ -59963,7 +59962,6 @@
 .*\bwenjuanshow\.com
 .*\bwenjunjiang\.win
 .*\bwenjuntech\.com
-.*\bwenjutv\.com
 .*\bwenjx\.com
 .*\bwenku\.net
 .*\bwenku365\.com
@@ -66007,7 +66005,6 @@
 .*\bykdgd\.com
 .*\bykdmsy\.com
 .*\bykedu\.net
-.*\bykhut\.com
 .*\bykimg\.com
 .*\bykinvestment\.com
 .*\bykjhdc\.com
