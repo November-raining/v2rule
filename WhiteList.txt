@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-03-18
+## Last update: 2021-03-19
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3356,7 +3356,6 @@
 .*\b361mogame\.com
 .*\b361ser\.com
 .*\b361sport\.com
-.*\b361t\.net
 .*\b361tuan\.com
 .*\b361way\.com
 .*\b362\.cc
@@ -17635,6 +17634,7 @@
 .*\bcnzz\.com
 .*\bcnzz\.net
 .*\bcnzz6\.com
+.*\bcnzznz\.com
 .*\bco-effort\.com
 .*\bco-inclusion\.org
 .*\bco188\.com
@@ -21292,6 +21292,7 @@
 .*\bdrscrewdriver\.com
 .*\bdrtyf\.com
 .*\bdrugfuture\.com
+.*\bdruggcp\.net
 .*\bdrumchina\.com
 .*\bdrunkpiano-liuyu\.net
 .*\bdrupal001\.com
@@ -21467,7 +21468,6 @@
 .*\bduoduo123\.com
 .*\bduoduobaba\.com
 .*\bduoduocdn\.com
-.*\bduoduojy\.com
 .*\bduoduotv\.com
 .*\bduoduoyin\.com
 .*\bduoduoyouli888\.com
@@ -25436,6 +25436,7 @@
 .*\bgapitech\.com
 .*\bgara\.cc
 .*\bgarden-aquarium\.com
+.*\bgardencn\.com
 .*\bgarmuri\.com
 .*\bgarnoc\.com
 .*\bgarphy\.com
@@ -33055,6 +33056,7 @@
 .*\bitdos\.com
 .*\bitdos\.net
 .*\biteblog\.com
+.*\bitechate\.com
 .*\bitechol\.com
 .*\bitechwall\.com
 .*\bitedou\.com
@@ -36097,6 +36099,7 @@
 .*\bkafoom\.com
 .*\bkagirl\.net
 .*\bkagneen\.com
+.*\bkahxnsat\.com
 .*\bkai-ying\.com
 .*\bkaiba315\.com
 .*\bkaibo5888\.com
@@ -42017,7 +42020,6 @@
 .*\bmishangkeji\.com
 .*\bmiskcoo\.com
 .*\bmispos\.cc
-.*\bmissancn\.com
 .*\bmissevan\.com
 .*\bmissfresh\.net
 .*\bmissku\.com
@@ -62454,7 +62456,6 @@
 .*\bxiaoqijj\.com
 .*\bxiaoqingtou\.com
 .*\bxiaoqiqiao\.com
-.*\bxiaoqiushui\.com
 .*\bxiaoqugang\.com
 .*\bxiaoqukuaishou\.com
 .*\bxiaoquyijia\.com
@@ -66971,6 +66972,7 @@
 .*\byuntongcloud\.com
 .*\byuntongtech\.com
 .*\byuntongxun\.com
+.*\byuntouxiang\.com
 .*\byuntu\.io
 .*\byunvm\.com
 .*\byunvs\.com
