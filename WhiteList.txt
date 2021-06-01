@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-06-01
+## Last update: 2021-06-02
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -24507,7 +24507,6 @@
 .*\bfxdp\.com
 .*\bfxian\.org
 .*\bfxiaoke\.com
-.*\bfxingw\.com
 .*\bfxk8\.com
 .*\bfxlbb\.com
 .*\bfxlim\.com
@@ -48332,7 +48331,6 @@
 .*\brm-static\.djicdn\.com
 .*\brm5u\.com
 .*\brm96\.com
-.*\brmcjzz\.com
 .*\brmcteam\.org
 .*\brmdhtyc\.com
 .*\brmhospital\.com
@@ -64373,7 +64371,6 @@
 .*\byiyiarts\.net
 .*\byiyihd\.com
 .*\byiyimh\.com
-.*\byiyingbk\.com
 .*\byiyingt\.com
 .*\byiyisoft\.com
 .*\byiyituzi\.com
