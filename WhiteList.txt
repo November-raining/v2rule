@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-07-12
+## Last update: 2021-07-13
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -887,6 +887,7 @@
 .*\b100try\.com
 .*\b100txt\.com
 .*\b100txy\.com
+.*\b100ulife\.com
 .*\b100wa\.com
 .*\b100web\.store
 .*\b100weidu\.com
@@ -1653,7 +1654,6 @@
 .*\b172222\.com
 .*\b17284\.net
 .*\b172tt\.com
-.*\b172xiaoyuan\.com
 .*\b173\.com
 .*\b1732\.com
 .*\b1732\.net
@@ -11736,7 +11736,6 @@
 .*\bbingdian001\.com
 .*\bbingdian01\.com
 .*\bbingdong700\.com
-.*\bbingelmedia\.com
 .*\bbinglai\.net
 .*\bbinglanggu\.com
 .*\bbinglingtech\.com
@@ -11890,7 +11889,6 @@
 .*\bbithosts\.net
 .*\bbithub00\.com
 .*\bbitjia\.com
-.*\bbitkan\.com
 .*\bbitky\.cc
 .*\bbitmain\.vip
 .*\bbitmap\.cc
@@ -12479,7 +12477,6 @@
 .*\bboao369\.com
 .*\bboatsky\.com
 .*\bbob2012\.com
-.*\bbobaiw\.com
 .*\bbobaow\.com
 .*\bbobbns\.com
 .*\bbobcardjf\.com
@@ -12599,7 +12596,6 @@
 .*\bbookingtee\.com
 .*\bbookinlife\.net
 .*\bbooklist\.mobi
-.*\bbookqi\.com
 .*\bbookresource\.net
 .*\bbooks51\.com
 .*\bbookschina\.com
@@ -13144,6 +13140,7 @@
 .*\bbytegslb\.com
 .*\bbyteimg\.com
 .*\bbyteisland\.com
+.*\bbytescm\.com
 .*\bbytesfield\.com
 .*\bbytesmanager\.com
 .*\bbytestacks\.com
@@ -13437,6 +13434,7 @@
 .*\bcaiyun\.com
 .*\bcaiyunai\.com
 .*\bcaiyunapp\.com
+.*\bcaiyunyi\.com
 .*\bcaizhaowang\.com
 .*\bcaizhihr\.com
 .*\bcaj11\.com
@@ -18045,6 +18043,7 @@
 .*\bcthy\.com
 .*\bctiforum\.com
 .*\bctiku\.com
+.*\bctils\.com
 .*\bctime\.com
 .*\bctisd\.com
 .*\bctjin\.com
@@ -19549,7 +19548,6 @@
 .*\bdianbucuo\.com
 .*\bdiancaijun\.com
 .*\bdianchacha\.com
-.*\bdianclan\.com
 .*\bdiandainfo\.com
 .*\bdiandanbao\.com
 .*\bdiandao\.org
@@ -19648,7 +19646,6 @@
 .*\bdianzhi\.com
 .*\bdianziaihaozhe\.com
 .*\bdianzis\.com
-.*\bdianziw\.com
 .*\bdianzixuexi\.com
 .*\bdiaoao\.com
 .*\bdiaoben\.com
@@ -20548,7 +20545,6 @@
 .*\bdowncc\.com
 .*\bdownclass\.com
 .*\bdownerapi\.com
-.*\bdowneyboy\.com
 .*\bdownfeng\.com
 .*\bdownfi\.com
 .*\bdowng\.com
@@ -28519,7 +28515,6 @@
 .*\bhiyouqu\.com
 .*\bhizg\.org
 .*\bhizhu\.com
-.*\bhizhuanli\.com
 .*\bhizip\.net
 .*\bhizj\.net
 .*\bhizuan\.net
@@ -31671,7 +31666,6 @@
 .*\binficn\.com
 .*\binfineon-autoeco\.com
 .*\binfineon-power-rf\.org
-.*\binfineonic\.org
 .*\binfinitescript\.com
 .*\binfinitiownerclub\.com
 .*\binfinityarts\.net
@@ -38670,6 +38664,7 @@
 .*\blongwiki\.org
 .*\blongwin\.org
 .*\blongwindspg\.com
+.*\blongwisepr\.com
 .*\blongxi-tech\.net
 .*\blongxianwen\.net
 .*\blongxuan\.ren
@@ -39504,7 +39499,6 @@
 .*\bmaczd\.com
 .*\bmaczhi\.com
 .*\bmaczj\.com
-.*\bmad114\.com
 .*\bmadailicai\.com
 .*\bmade-in-china\.com
 .*\bmadefuns\.com
@@ -41575,7 +41569,6 @@
 .*\bmp4ju\.com
 .*\bmpacc\.net
 .*\bmpaidata\.com
-.*\bmpanshi\.com
 .*\bmpdaogou\.com
 .*\bmpdsj\.com
 .*\bmpfmall\.com
@@ -42620,7 +42613,6 @@
 .*\bnewcapec\.net
 .*\bnewcger\.com
 .*\bnewchainbase\.com
-.*\bnewchannel\.org
 .*\bnewchieve\.com
 .*\bnewchinalife\.com
 .*\bnewclasses\.org
@@ -43024,7 +43016,6 @@
 .*\bnlinkline\.com
 .*\bnljb\.net
 .*\bnlnln\.com
-.*\bnlpir\.org
 .*\bnlpjob\.com
 .*\bnlscan\.com
 .*\bnlv2\.com
@@ -49546,7 +49537,6 @@
 .*\bshanghaizhenji\.com
 .*\bshangji998\.com
 .*\bshangjilian\.com
-.*\bshanglei\.net
 .*\bshangliancn\.com
 .*\bshanglv51\.com
 .*\bshangmayuan\.com
@@ -50282,7 +50272,6 @@
 .*\bshsby\.com
 .*\bshsbzl\.com
 .*\bshsci\.org
-.*\bshscxh\.net
 .*\bshsee\.com
 .*\bshshilin\.com
 .*\bshsihua\.com
@@ -54525,6 +54514,7 @@
 .*\btokenview\.com
 .*\btokenworld\.pro
 .*\btokimekiclub\.org
+.*\btoktok-mall\.com
 .*\btol24\.com
 .*\btolur\.org
 .*\btom\.cat
