@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-07-23
+## Last update: 2021-07-24
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3870,7 +3870,6 @@
 .*\b49ivb\.org
 .*\b49jie\.com
 .*\b49pic\.com
-.*\b49w\.cc
 .*\b49wanwan\.com
 .*\b49you\.com
 .*\b49yu\.com
@@ -4687,7 +4686,6 @@
 .*\b520mwx\.com
 .*\b520shu\.com
 .*\b520sz\.com
-.*\b520tingshu\.com
 .*\b520wawa\.com
 .*\b520way\.com
 .*\b520wenshen\.com
@@ -16687,7 +16685,6 @@
 .*\bcngaosu\.com
 .*\bcngb\.org
 .*\bcngba\.com
-.*\bcngbn\.com
 .*\bcngdwx\.com
 .*\bcnggt120\.com
 .*\bcngin\.com
@@ -25551,7 +25548,6 @@
 .*\bgolaravel\.com
 .*\bgold-v\.com
 .*\bgold58\.com
-.*\bgold600\.com
 .*\bgold678\.com
 .*\bgold8818\.com
 .*\bgoldapple\.name
@@ -29426,7 +29422,6 @@
 .*\bhuamoe\.com
 .*\bhuan-tai\.com
 .*\bhuan\.tv
-.*\bhuanaotong\.com
 .*\bhuanbao-world\.com
 .*\bhuanbao\.com
 .*\bhuanbaoscx\.com
@@ -39647,7 +39642,6 @@
 .*\bmanben\.com
 .*\bmanboker\.com
 .*\bmandao-tech\.com
-.*\bmandao\.tv
 .*\bmandarincapital\.net
 .*\bmandarinedu\.org
 .*\bmandarinhouse\.com
@@ -55049,7 +55043,6 @@
 .*\bttxunta\.com
 .*\bttyingqiu\.com
 .*\bttyjf\.com
-.*\bttyl5\.com
 .*\bttymq\.com
 .*\bttyongche\.com
 .*\bttyqm\.com
@@ -59412,7 +59405,6 @@
 .*\bwsfff\.com
 .*\bwsfnk\.com
 .*\bwsfsy\.com
-.*\bwsgblw\.com
 .*\bwsgjp\.com
 .*\bwsglb0\.com
 .*\bwsglb0\.info
@@ -60143,7 +60135,6 @@
 .*\bxbwbh\.com
 .*\bxbwebyun\.com
 .*\bxbxgame\.com
-.*\bxbxwx\.net
 .*\bxbxwx\.org
 .*\bxbxxb\.com
 .*\bxbxxz\.com
@@ -68210,7 +68201,6 @@
 .*\bzwwltkl\.com
 .*\bzwwx\.com
 .*\bzwzsh\.net
-.*\bzwzsj\.com
 .*\bzwzyzx\.com
 .*\bzx-casting\.com
 .*\bzx-tour\.com
