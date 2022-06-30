@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-06-30
+## Last update: 2022-07-01
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -7976,7 +7976,6 @@
 .*\baibing\.cc
 .*\baibo123\.com
 .*\baibooks\.cc
-.*\baibosha\.com
 .*\baicai\.com
 .*\baicaicdn\.com
 .*\baicdn\.com
@@ -10960,7 +10959,6 @@
 .*\bbigda\.com
 .*\bbigdata-expo\.org
 .*\bbigdata\.ren
-.*\bbigdatabbs\.com
 .*\bbigdatabuy\.com
 .*\bbigdataedu\.org
 .*\bbigdatasafe\.org
@@ -16548,7 +16546,6 @@
 .*\bcorpize\.com
 .*\bcorpring\.com
 .*\bcorpus4u\.org
-.*\bcortexfx\.bnpparibas\.com
 .*\bcos-show\.com
 .*\bcosco\.com
 .*\bcoscon\.com
@@ -20911,7 +20908,6 @@
 .*\belpwc\.com
 .*\bels001\.com
 .*\belsenow\.com
-.*\belsiehoney\.com
 .*\belsyhw\.com
 .*\belsz5\.xyz
 .*\beltws\.com
@@ -31853,7 +31849,6 @@
 .*\bjiaoben\.net
 .*\bjiaobuser\.com
 .*\bjiaochengzhijia\.com
-.*\bjiaodafu\.net
 .*\bjiaodian\.pub
 .*\bjiaodong\.net
 .*\bjiaofei123\.com
@@ -33789,7 +33784,6 @@
 .*\bkaiyuangroup\.cc
 .*\bkaiyuanhi\.com
 .*\bkaiyuanhotels\.com
-.*\bkaiyuanzg\.com
 .*\bkajicam\.com
 .*\bkaka\.com
 .*\bkaka3\.com
@@ -35363,7 +35357,6 @@
 .*\blanjinger\.com
 .*\blanjingfm\.com
 .*\blanjingtmt\.com
-.*\blanketd\.com
 .*\blanlanlife\.com
 .*\blanlicai\.com
 .*\blanlv\.com
@@ -38810,7 +38803,6 @@
 .*\bmergeek\.com
 .*\bmerklechina\.com
 .*\bmescroll\.com
-.*\bmeshang\.net
 .*\bmeshiot\.com
 .*\bmesince\.com
 .*\bmesresearch\.com
@@ -39934,8 +39926,6 @@
 .*\bmsfpay\.com
 .*\bmsfxt\.com
 .*\bmsgcarry\.com
-.*\bmsgr\.dlservice\.microsoft\.com
-.*\bmsgruser\.dlservice\.microsoft\.com
 .*\bmsgtjj\.com
 .*\bmshandong\.com
 .*\bmshc2018\.com
@@ -40800,7 +40790,6 @@
 .*\bnetbian\.com
 .*\bnetcnnet\.net
 .*\bnetcoc\.com
-.*\bnetcolor\.com
 .*\bnetconst\.com
 .*\bnetcoretec\.com
 .*\bnetded\.com
@@ -53396,7 +53385,6 @@
 .*\btysdmh\.com
 .*\btysj365\.com
 .*\btysjyjy\.com
-.*\btyst88\.com
 .*\btysurl\.com
 .*\btyswy\.com
 .*\btyszy\.com
@@ -57789,7 +57777,6 @@
 .*\bxazzg\.com
 .*\bxazzp\.com
 .*\bxazzs\.com
-.*\bxb\.dlservice\.microsoft\.com
 .*\bxb100\.net
 .*\bxb2s\.com
 .*\bxb5\.cc
