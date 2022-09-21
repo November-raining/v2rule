@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-09-21
+## Last update: 2022-09-22
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3706,7 +3706,6 @@
 .*\b5156rcw\.com
 .*\b515app\.com
 .*\b515car\.com
-.*\b515fa\.com
 .*\b515ha\.com
 .*\b515ppt\.com
 .*\b51658042\.com
@@ -5248,7 +5247,6 @@
 .*\b66163\.com
 .*\b66168\.net
 .*\b66173yx\.com
-.*\b661832\.com
 .*\b662city\.com
 .*\b662p\.com
 .*\b6631\.com
@@ -10886,6 +10884,7 @@
 .*\bbiqudu\.net
 .*\bbiqudu\.tv
 .*\bbiqufu\.com
+.*\bbiquge-app\.com
 .*\bbiquge\.biz
 .*\bbiquge\.info
 .*\bbiquge\.la
@@ -15048,7 +15047,6 @@
 .*\bcjjjs\.com
 .*\bcjjnff\.com
 .*\bcjk3d\.net
-.*\bcjkcgs\.com
 .*\bcjkhd\.com
 .*\bcjkj\.ink
 .*\bcjkypo\.com
@@ -16559,6 +16557,7 @@
 .*\bcrecu\.com
 .*\bcredibleglass\.com
 .*\bcredit-cras\.com
+.*\bcredit100\.com
 .*\bcreditcn\.com
 .*\bcreditsailing\.com
 .*\bcreditxb\.com
@@ -18368,7 +18367,6 @@
 .*\bdiaoyu\.com
 .*\bdiaoyu123\.com
 .*\bdiaoyu365\.com
-.*\bdiaoyubo\.com
 .*\bdiaoyula\.com
 .*\bdiaoyuren\.com
 .*\bdiaoyuwang\.com
@@ -26062,6 +26060,7 @@
 .*\bhcl100\.com
 .*\bhcmiraefund\.com
 .*\bhcocoa\.com
+.*\bhcqixinhb\.com
 .*\bhcshebao\.com
 .*\bhcsilk\.com
 .*\bhcsindex\.org
@@ -27170,6 +27169,7 @@
 .*\bhomecloud-lab\.com
 .*\bhomed\.me
 .*\bhomedo\.com
+.*\bhomedt\.net
 .*\bhomeinframes\.com
 .*\bhomeinmists\.com
 .*\bhomeinns\.com
@@ -28647,7 +28647,6 @@
 .*\bhzsgjj\.com
 .*\bhzshudian\.com
 .*\bhzstad88\.com
-.*\bhzsxn\.com
 .*\bhzti\.com
 .*\bhztosz\.com
 .*\bhztraining\.com
@@ -30704,7 +30703,6 @@
 .*\biximo\.com
 .*\bixinglu\.com
 .*\bixingpan\.com
-.*\bixinmanzhishe\.com
 .*\bixinqing\.com
 .*\bixintui\.com
 .*\bixinwei\.com
@@ -31628,6 +31626,7 @@
 .*\bjimucake\.com
 .*\bjimucc\.com
 .*\bjimufund\.com
+.*\bjimuhezi\.com
 .*\bjimujiazx\.com
 .*\bjin10\.com
 .*\bjin10x\.com
@@ -38258,7 +38257,6 @@
 .*\bmengshihm\.com
 .*\bmengso\.com
 .*\bmengtian\.com
-.*\bmengtu\.cc
 .*\bmengtuchuang\.xyz
 .*\bmengtuiapp\.com
 .*\bmengwuji\.net
@@ -38795,6 +38793,7 @@
 .*\bmitiplus\.com
 .*\bmittrchina\.com
 .*\bmiui\.com
+.*\bmiuiver\.com
 .*\bmiutour\.com
 .*\bmiutrip\.com
 .*\bmiwifi\.com
@@ -40969,6 +40968,7 @@
 .*\bntwikis\.com
 .*\bntwzy\.com
 .*\bntxiru\.com
+.*\bntyswlkj\.com
 .*\bntyy888\.com
 .*\bntzrj\.com
 .*\bnu1l\.com
@@ -41354,6 +41354,7 @@
 .*\boliyi\.com
 .*\bollomall\.com
 .*\bolmy8\.com
+.*\bolo4\.com
 .*\bolymtech\.com
 .*\bomacloud\.com
 .*\bomayse\.com
@@ -41609,7 +41610,6 @@
 .*\borient-fund\.com
 .*\borient-hf\.com
 .*\borient-safety\.com
-.*\borientalgame\.com\.tw
 .*\borientalpearltower\.com
 .*\borientalwisdom\.com
 .*\borientcasa\.com
@@ -41989,6 +41989,7 @@
 .*\bpangong88\.com
 .*\bpangqiu\.com
 .*\bpangshu\.com
+.*\bpangubox\.com
 .*\bpangukj\.com
 .*\bpanguso\.com
 .*\bpangxieke\.com
@@ -43277,7 +43278,6 @@
 .*\bpuwenlong\.com
 .*\bpuworld\.com
 .*\bpuyuecs\.com
-.*\bpuyuehui\.com
 .*\bpuyurumen\.com
 .*\bpuzeyf\.com
 .*\bpv001\.net
@@ -45527,6 +45527,7 @@
 .*\brockbrain\.net
 .*\brockemb\.com
 .*\brockerfm\.com
+.*\brockflow\.tech
 .*\brockjitui\.com
 .*\brockmanlab\.net
 .*\brockru\.com
@@ -46413,6 +46414,7 @@
 .*\bsdgw\.com
 .*\bsdgwy\.org
 .*\bsdhangmoguan\.com
+.*\bsdhbcl\.com
 .*\bsdhdssd\.com
 .*\bsdhk2008\.com
 .*\bsdhoukang\.com
@@ -50229,7 +50231,6 @@
 .*\bszqt\.net
 .*\bszquanli\.com
 .*\bszrcfw\.com
-.*\bszrlqy\.com
 .*\bszrrjc\.com
 .*\bszrtcpa\.com
 .*\bszryc\.com
@@ -51397,7 +51398,6 @@
 .*\btiejiong\.com
 .*\btiejp\.com
 .*\btielemao\.com
-.*\btielingcn\.com
 .*\btielu\.org
 .*\btiepishihu\.com
 .*\btiepishihu\.hk
@@ -51662,6 +51662,7 @@
 .*\btmdm\.com
 .*\btmeiju\.com
 .*\btmeissheng\.com
+.*\btmgwdz\.vip
 .*\btmhong\.com
 .*\btmhvps\.com
 .*\btmiep\.org
@@ -53945,6 +53946,7 @@
 .*\bviseator\.com
 .*\bvishining\.com
 .*\bvisionbbs\.com
+.*\bvisionchinashow\.net
 .*\bvisioncloudapi\.com
 .*\bvisionly\.org
 .*\bvisionsoar\.com
@@ -54533,6 +54535,7 @@
 .*\bwangyajie\.wang
 .*\bwangyanpiano\.com
 .*\bwangye\.com
+.*\bwangyeyixia\.com
 .*\bwangyin\.com
 .*\bwangyou\.com
 .*\bwangyou2\.com
