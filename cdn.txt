@@ -1289,7 +1289,6 @@
 15cdn.com
 15gg.com
 15gift.com
-15google.com
 15hr.com
 15in.com
 15ms.com
@@ -2471,7 +2470,6 @@
 2r3r.com
 2rich.net
 2shihui.net
-2shoujie.com
 2shu8.cc
 2sitebbs.com
 2smtc.com
@@ -2574,6 +2572,7 @@
 31byq.com
 31bzjx.com
 31cg.com
+31chaxun.com
 31expo.com
 31fabu.com
 31food.com
@@ -2594,6 +2593,7 @@
 31mold.com
 31myhome.com
 31pump.com
+31rent.com
 31rzp.com
 31seal.com
 31sjjx.com
@@ -3802,6 +3802,7 @@
 51chuli.com
 51cir.com
 51cjyy.com
+51cocoa.com
 51code.com
 51cok.com
 51comp.com
@@ -5040,7 +5041,6 @@
 5sai.com
 5sdy.cc
 5sdy.com
-5se34.com
 5seals.com
 5see.com
 5seestar.com
@@ -19516,7 +19516,6 @@ duobaoqibin.com
 duobei.com
 duobeiyun.com
 duobeiyun.net
-duoben.net
 duobiji.com
 duocaitou.com
 duochang.cc
@@ -21475,7 +21474,6 @@ fangzongguan.com
 fanhai-hk.com
 fanhai8.com
 fanhaobai.com
-fanhaojia.org
 fanhaoyue.com
 fanhonghua.net
 fanhougame.com
@@ -33188,6 +33186,7 @@ jxorg.com
 jxpta.com
 jxqcw.com
 jxqgpx.com
+jxqyfw.com
 jxrjzx.com
 jxrsrc.com
 jxrtv.com
@@ -45701,7 +45700,6 @@ roland-china.com
 rollingstone.net
 rollupjs.com
 rom100.com
-romeng.men
 romhui.com
 romjd.com
 romleyuan.com
@@ -49997,6 +49995,7 @@ swiftmi.com
 swiftstar.net
 swijoy.com
 switchvip.com
+switchxiazai.com
 swjoy.com
 swkong.com
 swliuxue.com
@@ -52264,7 +52263,6 @@ transer-cn.com
 transformer-cn.com
 transfu.com
 transfun.net
-translate.googleapis.com
 translatego.net
 translation-dictionary.net
 translation.googleapis.com
@@ -53873,6 +53871,7 @@ vckai.com
 vckbase.com
 vcloudgtm.com
 vclusters.com
+vcnews.com
 vcode.cc
 vcomic.com
 vcomputes.com
@@ -55192,6 +55191,7 @@ weijinsuo.com
 weijiu.org
 weijiuxin.com
 weijj.com
+weijq.com
 weiju.net
 weijuju.com
 weikaowu.com
@@ -58965,7 +58965,6 @@ xmxwl.net
 xmxwz.com
 xmyeditor.com
 xmyijing.com
-xmyipin.com
 xmylhy.com
 xmysgame.com
 xmysinter.com
@@ -60948,6 +60947,7 @@ yizimg.com
 yizlife.com
 yizu.org
 yizuocity.com
+yizuxing.com
 yj-bank.com
 yj-fun.com
 yj.ink
@@ -62554,6 +62554,7 @@ yyouren.com
 yypm.com
 yypt.com
 yyq.com
+yyrec.com
 yyrenting.com
 yyrtv.com
 yysg11.co
@@ -65074,6 +65075,7 @@ zupulu.com
 zutianke.com
 zuulee.com
 zuxcgames.com
+zuxiaoyi.com
 zuyunfei.com
 zuyushop.com
 zuzheyong.com

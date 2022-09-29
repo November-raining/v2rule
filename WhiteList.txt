@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-09-29
+## Last update: 2022-09-30
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1295,7 +1295,6 @@
 .*\b15cdn\.com
 .*\b15gg\.com
 .*\b15gift\.com
-.*\b15google\.com
 .*\b15hr\.com
 .*\b15in\.com
 .*\b15ms\.com
@@ -2474,7 +2473,6 @@
 .*\b2r3r\.com
 .*\b2rich\.net
 .*\b2shihui\.net
-.*\b2shoujie\.com
 .*\b2shu8\.cc
 .*\b2sitebbs\.com
 .*\b2smtc\.com
@@ -2577,6 +2575,7 @@
 .*\b31byq\.com
 .*\b31bzjx\.com
 .*\b31cg\.com
+.*\b31chaxun\.com
 .*\b31expo\.com
 .*\b31fabu\.com
 .*\b31food\.com
@@ -2597,6 +2596,7 @@
 .*\b31mold\.com
 .*\b31myhome\.com
 .*\b31pump\.com
+.*\b31rent\.com
 .*\b31rzp\.com
 .*\b31seal\.com
 .*\b31sjjx\.com
@@ -3805,6 +3805,7 @@
 .*\b51chuli\.com
 .*\b51cir\.com
 .*\b51cjyy\.com
+.*\b51cocoa\.com
 .*\b51code\.com
 .*\b51cok\.com
 .*\b51comp\.com
@@ -5043,7 +5044,6 @@
 .*\b5sai\.com
 .*\b5sdy\.cc
 .*\b5sdy\.com
-.*\b5se34\.com
 .*\b5seals\.com
 .*\b5see\.com
 .*\b5seestar\.com
@@ -19452,7 +19452,6 @@
 .*\bduobei\.com
 .*\bduobeiyun\.com
 .*\bduobeiyun\.net
-.*\bduoben\.net
 .*\bduobiji\.com
 .*\bduocaitou\.com
 .*\bduochang\.cc
@@ -21411,7 +21410,6 @@
 .*\bfanhai-hk\.com
 .*\bfanhai8\.com
 .*\bfanhaobai\.com
-.*\bfanhaojia\.org
 .*\bfanhaoyue\.com
 .*\bfanhonghua\.net
 .*\bfanhougame\.com
@@ -33052,6 +33050,7 @@
 .*\bjxpta\.com
 .*\bjxqcw\.com
 .*\bjxqgpx\.com
+.*\bjxqyfw\.com
 .*\bjxrjzx\.com
 .*\bjxrsrc\.com
 .*\bjxrtv\.com
@@ -45541,7 +45540,6 @@
 .*\brollingstone\.net
 .*\brollupjs\.com
 .*\brom100\.com
-.*\bromeng\.men
 .*\bromhui\.com
 .*\bromjd\.com
 .*\bromleyuan\.com
@@ -49816,6 +49814,7 @@
 .*\bswiftstar\.net
 .*\bswijoy\.com
 .*\bswitchvip\.com
+.*\bswitchxiazai\.com
 .*\bswjoy\.com
 .*\bswkong\.com
 .*\bswliuxue\.com
@@ -53680,6 +53679,7 @@
 .*\bvckbase\.com
 .*\bvcloudgtm\.com
 .*\bvclusters\.com
+.*\bvcnews\.com
 .*\bvcode\.cc
 .*\bvcomic\.com
 .*\bvcomputes\.com
@@ -54999,6 +54999,7 @@
 .*\bweijiu\.org
 .*\bweijiuxin\.com
 .*\bweijj\.com
+.*\bweijq\.com
 .*\bweiju\.net
 .*\bweijuju\.com
 .*\bweikaowu\.com
@@ -58768,7 +58769,6 @@
 .*\bxmxwz\.com
 .*\bxmyeditor\.com
 .*\bxmyijing\.com
-.*\bxmyipin\.com
 .*\bxmylhy\.com
 .*\bxmysgame\.com
 .*\bxmysinter\.com
@@ -60750,6 +60750,7 @@
 .*\byizlife\.com
 .*\byizu\.org
 .*\byizuocity\.com
+.*\byizuxing\.com
 .*\byj-bank\.com
 .*\byj-fun\.com
 .*\byj\.ink
@@ -62356,6 +62357,7 @@
 .*\byypm\.com
 .*\byypt\.com
 .*\byyq\.com
+.*\byyrec\.com
 .*\byyrenting\.com
 .*\byyrtv\.com
 .*\byysg11\.co
@@ -64877,6 +64879,7 @@
 .*\bzutianke\.com
 .*\bzuulee\.com
 .*\bzuxcgames\.com
+.*\bzuxiaoyi\.com
 .*\bzuyunfei\.com
 .*\bzuyushop\.com
 .*\bzuzheyong\.com
