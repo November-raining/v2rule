@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-12-27
+## Last update: 2022-12-28
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -5208,6 +5208,7 @@
 .*\b66ruian\.com
 .*\b66shouyou\.com
 .*\b66sj\.com
+.*\b66ss\.org
 .*\b66sy\.com
 .*\b66team\.com
 .*\b66test\.com
@@ -11041,6 +11042,7 @@
 .*\bbjnaxl\.com
 .*\bbjnsr\.com
 .*\bbjp321\.com
+.*\bbjpag\.com
 .*\bbjpowernode\.com
 .*\bbjqcjdcj\.com
 .*\bbjqh\.org
@@ -11723,6 +11725,7 @@
 .*\bbtwob\.net
 .*\bbtwuji\.com
 .*\bbtxl8\.com
+.*\bbtydjxc\.com
 .*\bbtyou\.com
 .*\bbtzhcc\.com
 .*\bbuaaer\.com
@@ -12856,6 +12859,7 @@
 .*\bcdnhwc5\.com
 .*\bcdnhwc6\.com
 .*\bcdnhwc8\.com
+.*\bcdnhwcedt124\.com
 .*\bcdnhwchcg02\.com
 .*\bcdnhwcibv122\.com
 .*\bcdnidc\.net
@@ -14828,6 +14832,7 @@
 .*\bcjhxfund\.com
 .*\bcjienc\.com
 .*\bcjiit\.com
+.*\bcjjd04\.com
 .*\bcjjd08\.com
 .*\bcjjhb\.com
 .*\bcjjjs\.com
@@ -14961,6 +14966,7 @@
 .*\bclouddn\.com
 .*\bclouddns\.vip
 .*\bclouddream\.net
+.*\bcloudflare-cn\.com
 .*\bcloudflare520\.com
 .*\bcloudgap\.net
 .*\bcloudgfw\.com
@@ -16977,6 +16983,7 @@
 .*\bda\.anythinktech\.com
 .*\bda88\.net
 .*\bdaanbar\.com
+.*\bdaanche\.com
 .*\bdaba\.com
 .*\bdabaicai\.com
 .*\bdabaicai\.org
@@ -17829,6 +17836,7 @@
 .*\bdexindat\.com
 .*\bdexingrv\.com
 .*\bdexinsg\.com
+.*\bdextercai\.com
 .*\bdexuee\.com
 .*\bdexunyun\.com
 .*\bdeyang5\.com
@@ -40614,6 +40622,7 @@
 .*\bntxiru\.com
 .*\bntyswlkj\.com
 .*\bntyy888\.com
+.*\bntzcb2b\.com
 .*\bnu1l\.com
 .*\bnuan\.io
 .*\bnuandao\.com
@@ -41424,6 +41433,7 @@
 .*\bouyada\.com
 .*\bouyaoxiazai\.com
 .*\bouyeel\.com
+.*\bouyi\.date
 .*\bouyi\.zone
 .*\bouyingyimin\.com
 .*\bouzhougoufang\.com
@@ -44255,6 +44265,8 @@
 .*\bqueniucf\.com
 .*\bqueniuck\.com
 .*\bqueniufm\.com
+.*\bqueniuhy\.com
+.*\bqueniukr\.com
 .*\bqueniuso\.com
 .*\bqueniusy\.com
 .*\bqueniuuf\.com
@@ -45614,6 +45626,7 @@
 .*\bsaiyangame\.com
 .*\bsaiyouedu\.net
 .*\bsaiyunyx\.com
+.*\bsakesi\.club
 .*\bsakway\.com
 .*\bsalasolo\.com
 .*\bsaleoilpaintings\.com
@@ -47079,6 +47092,7 @@
 .*\bshiyide\.com
 .*\bshiyiyx\.com
 .*\bshiyongjun\.biz
+.*\bshiyouhome\.com
 .*\bshiyousan\.com
 .*\bshiyu\.pro
 .*\bshiyue\.com
@@ -49698,6 +49712,7 @@
 .*\bszaiten\.com
 .*\bszande\.com
 .*\bszaudio\.com
+.*\bszbaoly\.com
 .*\bszbbs\.org
 .*\bszbcase\.com
 .*\bszbdyd\.com
@@ -51202,6 +51217,7 @@
 .*\btjzfcg\.com
 .*\btjzhongyiyao\.com
 .*\btjzyec\.com
+.*\btjzyfw\.com
 .*\btk-rays\.com
 .*\btk-xiong\.com
 .*\btk\.anythinktech\.com
@@ -54961,6 +54977,7 @@
 .*\bwf\.pub
 .*\bwf163\.com
 .*\bwf66\.com
+.*\bwfaozhuo\.com
 .*\bwfbaiyou\.com
 .*\bwfbbs\.com
 .*\bwfbrood\.com
@@ -60011,6 +60028,7 @@
 .*\byingyonghui\.com
 .*\byingyongmiao\.com
 .*\byingyu\.com
+.*\byingyuchat\.com
 .*\byingyurumen\.com
 .*\byingyushijie\.com
 .*\byingyuweb\.com
@@ -61748,7 +61766,6 @@
 .*\byx0599\.com
 .*\byx090\.com
 .*\byx10011\.com
-.*\byx129\.net
 .*\byx192\.com
 .*\byx231\.com
 .*\byx643\.com
@@ -62257,6 +62274,7 @@
 .*\bzechunbengye\.com
 .*\bzeda1\.com
 .*\bzedukm\.com
+.*\bzeekrlife\.com
 .*\bzeelis\.com
 .*\bzeesin\.com
 .*\bzego\.im
