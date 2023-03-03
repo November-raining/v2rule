@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-03-03
+## Last update: 2023-03-04
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1971,6 +1971,7 @@
 .*\b21epub\.com
 .*\b21fid\.com
 .*\b21food\.com
+.*\b21ge2\.com
 .*\b21hh\.com
 .*\b21hubei\.com
 .*\b21hubei\.net
@@ -2858,6 +2859,7 @@
 .*\b365cgw\.com
 .*\b365chanlun\.com
 .*\b365che\.net
+.*\b365cyd\.com
 .*\b365cyd\.net
 .*\b365daan\.com
 .*\b365dhw\.com
@@ -3849,6 +3851,7 @@
 .*\b51kehui\.com
 .*\b51kids\.com
 .*\b51kik\.com
+.*\b51kim\.com
 .*\b51kt\.com
 .*\b51ktbyte\.com
 .*\b51kupai\.com
@@ -6777,6 +6780,7 @@
 .*\b98mp\.com
 .*\b98nice\.com
 .*\b98one\.com
+.*\b98t\.la
 .*\b98t\.net
 .*\b98weixin\.com
 .*\b98znz\.com
@@ -7012,6 +7016,7 @@
 .*\b9wee\.net
 .*\b9weihu\.com
 .*\b9wuli\.com
+.*\b9wwx\.com
 .*\b9xiazaiqi\.com
 .*\b9xiu\.com
 .*\b9xiuzb\.com
@@ -18294,6 +18299,7 @@
 .*\bdjzbl\.com
 .*\bdjzhj\.com
 .*\bdjzr88\.com
+.*\bdjzxn47\.com
 .*\bdkdangle\.com
 .*\bdkjiaoyang\.com
 .*\bdklogs\.net
@@ -23414,6 +23420,7 @@
 .*\bgloryview\.com
 .*\bglorze\.com
 .*\bglosku\.com
+.*\bglowapp\.fun
 .*\bglp\.com
 .*\bglqh\.com
 .*\bglshimg\.com
@@ -33037,6 +33044,7 @@
 .*\bkd120\.com
 .*\bkd128\.com
 .*\bkd185\.com
+.*\bkd21xs\.com
 .*\bkd9000\.com
 .*\bkdatacenter\.com
 .*\bkdbbx\.com
@@ -42884,6 +42892,7 @@
 .*\bqefee\.com
 .*\bqeto\.com
 .*\bqf027\.com
+.*\bqfamilylaw\.com
 .*\bqfang\.com
 .*\bqfangimg\.com
 .*\bqfedu\.com
@@ -44302,6 +44311,7 @@
 .*\br5k\.com
 .*\br5tao\.com
 .*\br77777777\.com
+.*\bra2\.com
 .*\bra2ol\.com
 .*\brabbitpre\.com
 .*\brabbitpre\.me
@@ -47634,6 +47644,7 @@
 .*\bsjono\.com
 .*\bsjpcw\.com
 .*\bsjq315\.com
+.*\bsjqcj\.com
 .*\bsjrwzz\.com
 .*\bsjsbk\.com
 .*\bsjsydq\.com
@@ -48711,6 +48722,7 @@
 .*\bstovol\.club
 .*\bstoyard\.com
 .*\bstr-mo\.com
+.*\bstraitchain\.com
 .*\bstrconv\.com
 .*\bstrcpy\.me
 .*\bstreamaxtech\.com
@@ -58155,6 +58167,7 @@
 .*\bxsmaofa\.com
 .*\bxsmnews\.com
 .*\bxsmore\.com
+.*\bxsmy54s\.com
 .*\bxsnsyh\.com
 .*\bxsool\.com
 .*\bxsp0311\.com
@@ -62565,10 +62578,12 @@
 .*\bzhimacangku\.com
 .*\bzhimace\.com
 .*\bzhimantian\.com
+.*\bzhimapay\.net
 .*\bzhimaruanjian\.com
 .*\bzhimatech\.com
 .*\bzhimawenda\.com
 .*\bzhimax\.com
+.*\bzhimaxkf\.com
 .*\bzhimg\.com
 .*\bzhimi\.com
 .*\bzhimoe\.com
