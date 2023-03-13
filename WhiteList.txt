@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-03-13
+## Last update: 2023-03-14
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -7556,7 +7556,6 @@
 .*\bahudows\.com
 .*\bahugeship\.com
 .*\bahuyi\.com
-.*\bahwkdz\.com
 .*\bahwwnews\.com
 .*\bahwxcs\.com
 .*\bahxwkj\.com
@@ -7849,6 +7848,7 @@
 .*\baiuxstudio\.com
 .*\baiviy\.com
 .*\baiviysoft\.com
+.*\baivote\.com
 .*\baiwall\.com
 .*\baiwan4399\.com
 .*\baiwan91\.com
@@ -16734,6 +16734,7 @@
 .*\bcyudun\.net
 .*\bcyuew\.com
 .*\bcywetc\.com
+.*\bcywyjj\.com
 .*\bcyy18\.com
 .*\bcyypscl\.com
 .*\bcyyself\.name
@@ -26854,7 +26855,6 @@
 .*\bhoverlees\.com
 .*\bhovertree\.com
 .*\bhovfree\.com
-.*\bhow234\.com
 .*\bhowardwchen\.com
 .*\bhowbuy\.com
 .*\bhowelllighting\.com
@@ -28517,6 +28517,7 @@
 .*\bicslx\.com
 .*\bicsoc\.net
 .*\bicson\.com
+.*\bicspec\.com
 .*\bicss\.me
 .*\bicstreet\.com
 .*\bicswb\.com
@@ -37244,6 +37245,7 @@
 .*\bmcchcdn\.com
 .*\bmcchina\.com
 .*\bmcchou\.com
+.*\bmcd\.blue
 .*\bmcd\.cc
 .*\bmcdchina\.net
 .*\bmcdsusan\.com
@@ -37782,7 +37784,6 @@
 .*\bmiaostreet\.com
 .*\bmiaov\.com
 .*\bmiaoweijianfei\.com
-.*\bmiaowugo\.com
 .*\bmiaowutech\.com
 .*\bmiaoxiazai\.com
 .*\bmiaozao\.com
@@ -38577,7 +38578,6 @@
 .*\bmorewiscloud\.com
 .*\bmorigames\.com
 .*\bmorihei\.net
-.*\bmoring\.pw
 .*\bmorketing\.com
 .*\bmorning\.work
 .*\bmorningcore\.com
@@ -42329,7 +42329,6 @@
 .*\bppxs\.net
 .*\bppxvod\.com
 .*\bppxwo\.com
-.*\bppxzy\.co
 .*\bppys\.net
 .*\bppzhan\.com
 .*\bppzhilian\.com
@@ -48820,7 +48819,6 @@
 .*\bsuningcloud\.com
 .*\bsuningestate\.com
 .*\bsuningholdings\.com
-.*\bsunjidong\.net
 .*\bsunjiwen\.com
 .*\bsunjs\.com
 .*\bsunland\.cc
@@ -51832,7 +51830,6 @@
 .*\btwcczhu\.com
 .*\btwd2\.me
 .*\btwd2\.net
-.*\btweakboxapp\.com
 .*\btweakcube\.com
 .*\btwguozao\.com
 .*\btwh5\.com
@@ -55279,7 +55276,6 @@
 .*\bwoaifanyi\.com
 .*\bwoaihaoyouxi\.com
 .*\bwoaihuahua\.com
-.*\bwoaipj\.com
 .*\bwoaipu\.com
 .*\bwoair\.com
 .*\bwoaishouban\.com
@@ -57927,7 +57923,6 @@
 .*\bxoliao\.com
 .*\bxooooa\.com
 .*\bxorpay\.com
-.*\bxoveskincare\.com
 .*\bxox8688\.com
 .*\bxox8995\.com
 .*\bxox9325\.com
