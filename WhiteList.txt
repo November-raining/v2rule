@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-03-17
+## Last update: 2023-03-18
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3678,6 +3678,7 @@
 .*\b51code\.com
 .*\b51cok\.com
 .*\b51comp\.com
+.*\b51cosmo\.com
 .*\b51cpm\.com
 .*\b51credit\.com
 .*\b51csr\.com
@@ -5611,7 +5612,6 @@
 .*\b7capp\.com
 .*\b7ccj\.com
 .*\b7chacha\.com
-.*\b7chajiu\.com
 .*\b7cmz\.com
 .*\b7cname\.com
 .*\b7cxk\.com
@@ -5958,6 +5958,7 @@
 .*\b86jg\.com
 .*\b86jobs\.com
 .*\b86joy\.com
+.*\b86kang\.com
 .*\b86kl\.com
 .*\b86kongqi\.com
 .*\b86lawyer\.com
@@ -6647,6 +6648,7 @@
 .*\b96516\.net
 .*\b96520\.com
 .*\b96533\.com
+.*\b965373\.com
 .*\b9665\.com
 .*\b966599\.com
 .*\b9666sr\.com
@@ -9854,6 +9856,7 @@
 .*\bbatterydir\.com
 .*\bbatterykey\.com
 .*\bbattleofballs\.com
+.*\bbatupian\.net
 .*\bbaudu\.com
 .*\bbaufortune\.com
 .*\bbauschlombchina\.com
@@ -10077,6 +10080,7 @@
 .*\bbedtimepoem\.com
 .*\bbeduu\.com
 .*\bbee-net\.com
+.*\bbee-station\.com
 .*\bbeebeepop\.com
 .*\bbeebeeto\.com
 .*\bbeecook\.com
@@ -11451,6 +11455,7 @@
 .*\bboyuonline\.com
 .*\bbozhihua\.com
 .*\bbozhong\.com
+.*\bbozhou666\.com
 .*\bbphetaomiao\.com
 .*\bbpimg\.com
 .*\bbppan\.com
@@ -14821,6 +14826,7 @@
 .*\bcloud-scdn\.com
 .*\bcloud-sun\.com
 .*\bcloud301\.net
+.*\bcloud56\.net
 .*\bcloud887325\.com
 .*\bcloudacc-inc\.com
 .*\bcloudajs\.org
@@ -16504,6 +16510,7 @@
 .*\bcuchost\.com
 .*\bcuctv\.com
 .*\bcudaojia\.com
+.*\bcueber\.com
 .*\bcuebzzy\.com
 .*\bcuekit\.com
 .*\bcuelog\.com
@@ -16878,7 +16885,6 @@
 .*\bdadunet\.com
 .*\bdaerzhu\.com
 .*\bdaf-rs\.com
-.*\bdafa53\.com
 .*\bdafaji\.com
 .*\bdafang24\.com
 .*\bdafangya\.com
@@ -23855,6 +23861,7 @@
 .*\bgsdk\.tv
 .*\bgsdlcn\.com
 .*\bgsdpw\.com
+.*\bgse4sa\.com
 .*\bgsflcp\.com
 .*\bgsgs10086\.com
 .*\bgsgundam\.com
@@ -26994,6 +27001,7 @@
 .*\bhspress\.net
 .*\bhsr2013\.com
 .*\bhsrnsw\.com
+.*\bhsrtd\.club
 .*\bhssdk\.com
 .*\bhssdtest\.com
 .*\bhssemi\.com
@@ -30923,7 +30931,6 @@
 .*\bjiecao\.com
 .*\bjiedaibao\.com
 .*\bjiediankeji\.com
-.*\bjiedianqian\.com
 .*\bjiefadg\.com
 .*\bjiefuku\.com
 .*\bjiegames\.com
@@ -31736,6 +31743,7 @@
 .*\bjobguangfu\.com
 .*\bjobhb\.com
 .*\bjobi5\.com
+.*\bjobinhe\.net
 .*\bjobkoo\.com
 .*\bjobosoft\.vip
 .*\bjobpin\.com
@@ -37558,6 +37566,7 @@
 .*\bmenksoft\.com
 .*\bmenpiao\.com
 .*\bmenqiu\.com
+.*\bmentrends\.com
 .*\bmenubarx\.app
 .*\bmenwee\.com
 .*\bmenww\.com
@@ -41068,6 +41077,7 @@
 .*\box11\.com
 .*\boxbridgedu\.org
 .*\boxerr\.net
+.*\boxiang\.com
 .*\boxiaohua\.com
 .*\boxrm\.com
 .*\boxygenos\.com
@@ -46470,6 +46480,7 @@
 .*\bsheyi8\.com
 .*\bsheying001\.net
 .*\bsheyingtg\.com
+.*\bshezaixian\.com
 .*\bshezhan88\.com
 .*\bshfangshui\.com
 .*\bshfcw\.com
@@ -51252,6 +51263,7 @@
 .*\btrekiz\.com
 .*\btrend6\.com
 .*\btrendingstar\.tech
+.*\btrendsbulletin\.com
 .*\btrendsmen\.com
 .*\btrendtokyo\.com
 .*\btretars\.com
@@ -51538,6 +51550,7 @@
 .*\btuibench\.com
 .*\btuiberry\.com
 .*\btuibit\.com
+.*\btuiclick\.com
 .*\btuicoco\.com
 .*\btuidaniu\.com
 .*\btuidc\.com
@@ -55958,6 +55971,7 @@
 .*\bwxp114\.com
 .*\bwxp2022\.vip
 .*\bwxphp\.com
+.*\bwxpushuo\.com
 .*\bwxrb\.com
 .*\bwxrrd\.com
 .*\bwxscreen\.com
@@ -59609,6 +59623,7 @@
 .*\byishuziti\.com
 .*\byisier\.com
 .*\byisocms\.com
+.*\byisojuan\.com
 .*\byisou\.com
 .*\byisouti\.com
 .*\byisouyifa\.com
@@ -61830,7 +61845,6 @@
 .*\bzgkqw\.com
 .*\bzglb\.org
 .*\bzglcyx\.com
-.*\bzgldgbsdshyjy\.com
 .*\bzglibrary\.com
 .*\bzglipin\.com
 .*\bzgljl2012\.com
@@ -62753,6 +62767,7 @@
 .*\bzhuishubang\.com
 .*\bzhuishushenqi\.com
 .*\bzhuishuwang\.com
+.*\bzhuishuyun\.com
 .*\bzhuiwan\.org
 .*\bzhuixin\.cc
 .*\bzhuixinfan\.com
