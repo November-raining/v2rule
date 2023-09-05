@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-09-05
+## Last update: 2023-09-06
 
 .*\b0-6\.com
 .*\b00\.net
@@ -6770,6 +6770,7 @@
 .*\b99zihua\.com
 .*\b99zuowen\.com
 .*\b99zzw\.com
+.*\b9a9\.net
 .*\b9ailai\.com
 .*\b9aimai\.com
 .*\b9air\.com
@@ -21639,6 +21640,7 @@
 .*\bfl5\.co
 .*\bflachina\.com
 .*\bflacro\.me
+.*\bflamecdn\.com
 .*\bflamesky\.org
 .*\bflamingcold\.com
 .*\bflan1688\.com
@@ -23379,7 +23381,6 @@
 .*\bgodic\.net
 .*\bgodida\.com
 .*\bgodiy8\.com
-.*\bgodns\.site
 .*\bgodo\.pub
 .*\bgodoor\.com
 .*\bgodruoyi\.com
@@ -25263,7 +25264,6 @@
 .*\bhbcydlqc\.com
 .*\bhbdangyang\.com
 .*\bhbddrn\.com
-.*\bhbdfdh\.com
 .*\bhbdmia\.com
 .*\bhbdtjqj\.com
 .*\bhbdx-kdyy\.com
@@ -28843,7 +28843,6 @@
 .*\biii80\.com
 .*\biiiimg\.com
 .*\biiijk\.com
-.*\biiilab\.com
 .*\biiiview\.net
 .*\biikeji\.com
 .*\biikuzhan\.com
@@ -29712,7 +29711,6 @@
 .*\bisvjd\.com
 .*\bisvup\.com
 .*\biswifting\.com
-.*\biswitch\.app
 .*\bisyour\.love
 .*\bit-bound\.com
 .*\bit-crazy\.net
@@ -30217,6 +30215,7 @@
 .*\bjbdown\.com
 .*\bjbedu\.org
 .*\bjbelf\.com
+.*\bjbjc\.org
 .*\bjbryun\.com
 .*\bjbxy\.com
 .*\bjbzj\.com
@@ -31543,7 +31542,6 @@
 .*\bjltchina\.com
 .*\bjltyjxzz\.com
 .*\bjlusz\.com
-.*\bjlwubi\.com
 .*\bjlxfw\.com
 .*\bjlzkb\.com
 .*\bjlzsoft\.com
@@ -33814,7 +33812,6 @@
 .*\bkutianxia\.com
 .*\bkutj\.com
 .*\bkutongji\.com
-.*\bkutoo8\.com
 .*\bkutuan\.com
 .*\bkuuke\.com
 .*\bkuwan8\.com
@@ -40249,6 +40246,7 @@
 .*\bnxtianshangb\.com
 .*\bnxwly\.com
 .*\bnxyqs\.com
+.*\bnxyqs\.net
 .*\bny-yy\.com
 .*\bny83\.com
 .*\bnya\.ink
@@ -40782,7 +40780,6 @@
 .*\borgnitu\.net
 .*\boriemac\.com
 .*\borient-fund\.com
-.*\borient-hf\.com
 .*\borient-safety\.com
 .*\borientalpearltower\.com
 .*\borientalwisdom\.com
@@ -61283,7 +61280,6 @@
 .*\byywz123\.com
 .*\byywzw\.com
 .*\byyx168\.com
-.*\byyxt\.com
 .*\byyxtao\.com
 .*\byyxwzx\.com
 .*\byyxx100\.com
