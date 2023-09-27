@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-09-27
+## Last update: 2023-09-28
 
 .*\b0-6\.com
 .*\b00\.net
@@ -3471,7 +3471,6 @@
 .*\b51511\.com
 .*\b515158\.com
 .*\b5151app\.com
-.*\b5151doc\.com
 .*\b5151sc\.com
 .*\b5153\.com
 .*\b51555\.net
@@ -16247,6 +16246,7 @@
 .*\bctfmall\.com
 .*\bctfo\.com
 .*\bctfund\.com
+.*\bctg75\.com
 .*\bctghealthy\.com
 .*\bctghr\.com
 .*\bcthhmu\.com
@@ -25376,6 +25376,7 @@
 .*\bhd199\.com
 .*\bhd199\.net
 .*\bhd3p\.com
+.*\bhdarea\.club
 .*\bhdavchina\.com
 .*\bhdb\.com
 .*\bhdbaichuan\.com
@@ -32207,6 +32208,7 @@
 .*\bjxscct\.com
 .*\bjxsgfzx\.com
 .*\bjxshangyou\.com
+.*\bjxsjgjt\.com
 .*\bjxslsyy\.com
 .*\bjxsrfdc\.com
 .*\bjxsxdp\.com
@@ -33827,7 +33829,6 @@
 .*\blactec\.net
 .*\bladiyoga\.com
 .*\bladjzs\.com
-.*\bladouban\.com
 .*\blady177\.com
 .*\blady361\.com
 .*\blady8844\.com
@@ -36103,6 +36104,7 @@
 .*\bluxe\.co
 .*\bluxee\.com
 .*\bluxemon\.com
+.*\bluxiangdong\.com
 .*\bluxianpo\.com
 .*\bluxiao\.com
 .*\bluxiwang\.com
@@ -37794,7 +37796,6 @@
 .*\bmiquapp\.com
 .*\bmir4399\.com
 .*\bmiraclevision\.net
-.*\bmirari\.cc
 .*\bmirgaga\.net
 .*\bmirmzhy\.com
 .*\bmisaka\.center
@@ -40842,7 +40843,6 @@
 .*\bp2peye\.com
 .*\bp2peye\.net
 .*\bp2pjd\.com
-.*\bp2pjj\.com
 .*\bp2psearcher\.org
 .*\bp2psearchers\.com
 .*\bp2ptouhang\.com
@@ -42390,7 +42390,6 @@
 .*\bqctsw\.com
 .*\bqcwan\.com
 .*\bqcwdpt\.com
-.*\bqcwhw\.com
 .*\bqcwhxx\.com
 .*\bqcwlpay\.com
 .*\bqcwlseo\.com
@@ -48792,7 +48791,6 @@
 .*\bsxtvs\.com
 .*\bsxtybook\.com
 .*\bsxuyr2nx\.com
-.*\bsxvt58\.com
 .*\bsxwbs\.com
 .*\bsxwpyx\.com
 .*\bsxwrsa\.org
@@ -52619,7 +52617,6 @@
 .*\bvicp\.net
 .*\bvicrab\.com
 .*\bvicsdf\.com
-.*\bvictoriaturk\.com
 .*\bvida-bio\.com
 .*\bvidarsoft\.com
 .*\bviday\.org
@@ -53135,7 +53132,6 @@
 .*\bwaha\.cc
 .*\bwaheaven\.com
 .*\bwahlap\.com
-.*\bwahongyu\.com
 .*\bwaibao123\.com
 .*\bwaibao12333\.com
 .*\bwaibaodashi\.com
@@ -57106,6 +57102,7 @@
 .*\bxiongzhangad\.com
 .*\bxipushuju\.net
 .*\bxiqb\.com
+.*\bxiqianyangyi\.com
 .*\bxiqihe\.com
 .*\bxiqingji\.com
 .*\bxiqinrc\.com
@@ -60406,7 +60403,6 @@
 .*\byuetutu\.com
 .*\byuetuvip\.com
 .*\byuetuvip\.net
-.*\byuetx\.cc
 .*\byueweimusic\.com
 .*\byuewen\.com
 .*\byuexing\.com
@@ -60684,6 +60680,7 @@
 .*\byunsuan\.org
 .*\byunsuanzi\.com
 .*\byunsuo\.com
+.*\byunsuo\.xyz
 .*\byuntaigo\.com
 .*\byuntask\.com
 .*\byuntemai\.com
