@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2023-11-22
+## Last update: 2023-11-23
 
 
 Server=/0-6.com/
@@ -34582,7 +34582,6 @@ Server=/lilithgames.com/
 Server=/liliyago.com/
 Server=/lilosrv.com/
 Server=/lilvb.com/
-Server=/lily-collection.com/
 Server=/lilysamericandiner.com/
 Server=/lilysgame.com/
 Server=/limaoqiu.com/
@@ -58495,7 +58494,6 @@ Server=/yinhangzhaopin.com/
 Server=/yinhe.com/
 Server=/yinheyuedu.com/
 Server=/yinhu.com/
-Server=/yinhuadm.cc/
 Server=/yini.org/
 Server=/yinjiaji.com/
 Server=/yinjietd.com/

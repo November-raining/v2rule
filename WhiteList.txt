@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2023-11-22
+## Last update: 2023-11-23
 
 .*\b0-6\.com
 .*\b00\.net
@@ -34582,7 +34582,6 @@
 .*\bliliyago\.com
 .*\blilosrv\.com
 .*\blilvb\.com
-.*\blily-collection\.com
 .*\blilysamericandiner\.com
 .*\blilysgame\.com
 .*\blimaoqiu\.com
@@ -58495,7 +58494,6 @@
 .*\byinhe\.com
 .*\byinheyuedu\.com
 .*\byinhu\.com
-.*\byinhuadm\.cc
 .*\byini\.org
 .*\byinjiaji\.com
 .*\byinjietd\.com
