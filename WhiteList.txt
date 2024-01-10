@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2024-01-10
+## Last update: 2024-01-11
 
 .*\b0-6\.com
 .*\b00\.net
@@ -4161,7 +4161,6 @@
 .*\b52zx\.cc
 .*\b52zx\.net
 .*\b52zxw\.com
-.*\b52zy\.com
 .*\b531314\.com
 .*\b5317wan\.com
 .*\b532106\.com
@@ -4314,6 +4313,7 @@
 .*\b56img\.com
 .*\b56img\.net
 .*\b56imgs\.com
+.*\b56jg\.com
 .*\b56kad\.com
 .*\b56laile\.com
 .*\b56md\.com
@@ -6396,7 +6396,6 @@
 .*\b9918\.tv
 .*\b9919345\.com
 .*\b991kang\.com
-.*\b9922524\.com
 .*\b9928\.tv
 .*\b9939\.com
 .*\b99394\.com
@@ -9444,7 +9443,6 @@
 .*\bbaozy\.com
 .*\bbaping\.com
 .*\bbaqiu\.com
-.*\bbaquge\.com
 .*\bbarmap\.com
 .*\bbaron-bj\.com
 .*\bbaronzhang\.com
@@ -10157,7 +10155,7 @@
 .*\bbiligame\.net
 .*\bbilihot\.com
 .*\bbiliimg\.com
-.*\bbilimoe\.com
+.*\bbilinovel\.com
 .*\bbilive\.com
 .*\bbilivideo\.com
 .*\bbiliyu\.com
@@ -15267,7 +15265,6 @@
 .*\bcomsenz\.com
 .*\bcomseoer\.com
 .*\bcomsharp\.com
-.*\bcomsol\.com
 .*\bcomweixin\.com
 .*\bconbagroup\.com
 .*\bconchdesktop\.com
@@ -18699,7 +18696,6 @@
 .*\bdygod\.org
 .*\bdygzs\.com
 .*\bdyhjw\.com
-.*\bdyhnbgtsl\.xyz
 .*\bdyhr88\.com
 .*\bdyhxgame\.com
 .*\bdyhzj\.com
@@ -19783,7 +19779,6 @@
 .*\bertongtuku\.com
 .*\bertoutiao\.com
 .*\berun360\.com
-.*\berutluv\.com
 .*\berya100\.com
 .*\beryajf\.net
 .*\beryyutu\.com
@@ -37253,6 +37248,7 @@
 .*\bmmtrixcnet\.com
 .*\bmmuaa\.com
 .*\bmmww\.com
+.*\bmmxchina\.com
 .*\bmmxiaowu\.com
 .*\bmmy\.la
 .*\bmmybt\.com
@@ -38862,7 +38858,6 @@
 .*\bniuwk\.com
 .*\bniuxgame77\.com
 .*\bniuxiaoer\.net
-.*\bniuxiaoq\.com
 .*\bniuxyun\.com
 .*\bniuxz\.com
 .*\bniuyan\.com
@@ -42790,7 +42785,6 @@
 .*\bqujianpan\.com
 .*\bqujie365\.com
 .*\bqujiemi\.com
-.*\bqujinhuo\.com
 .*\bqujishu\.com
 .*\bqujunde\.com
 .*\bqukaa\.com
@@ -42874,7 +42868,6 @@
 .*\bquweikm\.com
 .*\bquweiwu\.com
 .*\bquwenqing\.com
-.*\bquwenqushi\.com
 .*\bquwentxw\.com
 .*\bquwj\.com
 .*\bquwm\.com
@@ -43712,7 +43705,6 @@
 .*\brqi17\.com
 .*\brqjrb\.com
 .*\brqkr\.com
-.*\brqz1\.com
 .*\brr-sc\.com
 .*\brr365\.com
 .*\brrb365\.com
@@ -50545,7 +50537,6 @@
 .*\btxfund\.com
 .*\btxga\.com
 .*\btxh00\.com
-.*\btxianning\.com
 .*\btxip8\.com
 .*\btxitech\.com
 .*\btxjsjgs888\.com
@@ -56953,7 +56944,6 @@
 .*\bxxtswzedu\.com
 .*\bxxue100\.com
 .*\bxxwolo\.com
-.*\bxxx6686\.app
 .*\bxxxbiquge\.com
 .*\bxxxcsf\.com
 .*\bxxxfeng\.com
@@ -57760,6 +57750,7 @@
 .*\byibeianyuming\.com
 .*\byibenmanhua\.com
 .*\byibite\.com
+.*\byibocat\.com
 .*\byicai\.com
 .*\byicamp\.com
 .*\byichadan\.com
@@ -57852,7 +57843,6 @@
 .*\byihecloud\.com
 .*\byihedoors\.com
 .*\byihong001\.com
-.*\byihongzhihui\.com
 .*\byihshou\.com
 .*\byihu\.com
 .*\byihuacomputer\.com
