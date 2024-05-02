@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2024-05-02
+## Last update: 2024-05-03
 
 .*\b0-6\.com
 .*\b0\.zone
@@ -691,6 +691,7 @@
 .*\b100-tong\.com
 .*\b100\.com
 .*\b100\.me
+.*\b100\.travel
 .*\b1000\.com
 .*\b10000\.com
 .*\b10000\.sh
@@ -793,7 +794,6 @@
 .*\b100weidu\.com
 .*\b100wen\.com
 .*\b100wsanguo\.com
-.*\b100x100w\.com
 .*\b100xgj\.com
 .*\b100xhs\.com
 .*\b100xiao\.com
@@ -7229,7 +7229,6 @@
 .*\b99wj\.com
 .*\b99wuxian\.com
 .*\b99xr\.com
-.*\b99xsh\.com
 .*\b99xueshu\.com
 .*\b99youmeng\.com
 .*\b99ys\.com
@@ -13734,7 +13733,6 @@
 .*\bccpc360\.com
 .*\bccpgssd\.com
 .*\bccpit-academy\.org
-.*\bccpit-henan\.org
 .*\bccpit-sichuan\.org
 .*\bccpit-sx\.org
 .*\bccpit-tga\.org
@@ -16146,7 +16144,6 @@
 .*\bcity12580\.com
 .*\bcity199\.com
 .*\bcity8\.com
-.*\bcity84\.com
 .*\bcitygf\.com
 .*\bcityhui\.com
 .*\bcitylinker\.com
@@ -17019,7 +17016,6 @@
 .*\bcnqd\.net
 .*\bcnqiang\.com
 .*\bcnqichun\.com
-.*\bcnqjc\.com
 .*\bcnqjw\.com
 .*\bcnqr\.org
 .*\bcnquanjing\.com
@@ -23418,7 +23414,6 @@
 .*\bfatbobman\.com
 .*\bfatedier\.com
 .*\bfatiao\.pro
-.*\bfatjio\.xyz
 .*\bfatvg\.com
 .*\bfaussefrance\.com
 .*\bfaussemontrerolex\.com
@@ -25472,7 +25467,6 @@
 .*\bgdwxyf\.com
 .*\bgdxfl\.com
 .*\bgdxindun\.com
-.*\bgdxinya\.com
 .*\bgdxmsx\.com
 .*\bgdxscode\.com
 .*\bgdxxb\.com
@@ -47486,7 +47480,6 @@
 .*\bplusgantt\.com
 .*\bplusplustu\.com
 .*\bplutuspay\.com
-.*\bpluvet\.com
 .*\bplycd\.com
 .*\bplyz\.net
 .*\bpm-summit\.org
@@ -47820,7 +47813,6 @@
 .*\bprinthome\.com
 .*\bprintidea\.art
 .*\bprintlake\.com
-.*\bprior24\.com
 .*\bprivateadx\.com
 .*\bprivatess\.win
 .*\bprivspace\.net
