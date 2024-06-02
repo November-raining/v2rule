@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2024-06-02
+## Last update: 2024-06-03
 
 .*\b0-6\.com
 .*\b0\.zone
@@ -4423,6 +4423,7 @@
 .*\b52372\.com
 .*\b523touzi\.com
 .*\b52419\.net
+.*\b524399game\.com
 .*\b52488\.com
 .*\b525\.life
 .*\b5251\.net
@@ -16412,6 +16413,7 @@
 .*\bcloud-links\.net
 .*\bcloud-neofussvr\.sslcs\.cdngc\.net
 .*\bcloud-rtc\.com
+.*\bcloud-rtc\.net
 .*\bcloud-scdn-ns\.net
 .*\bcloud-scdn-ns\.tech
 .*\bcloud-scdn\.com
@@ -28466,7 +28468,6 @@
 .*\bhaoyouyinxiang\.com
 .*\bhaoyuanfurniture\.com
 .*\bhaoyuanxiao\.com
-.*\bhaoyue\.asia
 .*\bhaoyue28\.com
 .*\bhaoyuepu\.com
 .*\bhaoyun13\.com
@@ -41812,6 +41813,7 @@
 .*\bmagicdata\.io
 .*\bmagich5page\.com
 .*\bmagicleaders\.com
+.*\bmagicneko\.com
 .*\bmagicnetmall\.com
 .*\bmagicspinning\.com
 .*\bmagicwatchface\.com
@@ -68490,7 +68492,6 @@
 .*\bym01\.tech
 .*\bym1998\.com
 .*\bym23\.com
-.*\bym68\.cc
 .*\bymadly\.com
 .*\bymadx\.com
 .*\bymailcampaign\.com

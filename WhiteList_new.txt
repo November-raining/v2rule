@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2024-06-02
+## Last update: 2024-06-03
 
 
 Server=/0-6.com/
@@ -4423,6 +4423,7 @@ Server=/523333.com/
 Server=/52372.com/
 Server=/523touzi.com/
 Server=/52419.net/
+Server=/524399game.com/
 Server=/52488.com/
 Server=/525.life/
 Server=/5251.net/
@@ -16412,6 +16413,7 @@ Server=/cloud-hub.co/
 Server=/cloud-links.net/
 Server=/cloud-neofussvr.sslcs.cdngc.net/
 Server=/cloud-rtc.com/
+Server=/cloud-rtc.net/
 Server=/cloud-scdn-ns.net/
 Server=/cloud-scdn-ns.tech/
 Server=/cloud-scdn.com/
@@ -28466,7 +28468,6 @@ Server=/haoyouqian.com/
 Server=/haoyouyinxiang.com/
 Server=/haoyuanfurniture.com/
 Server=/haoyuanxiao.com/
-Server=/haoyue.asia/
 Server=/haoyue28.com/
 Server=/haoyuepu.com/
 Server=/haoyun13.com/
@@ -41812,6 +41813,7 @@ Server=/magicax.com/
 Server=/magicdata.io/
 Server=/magich5page.com/
 Server=/magicleaders.com/
+Server=/magicneko.com/
 Server=/magicnetmall.com/
 Server=/magicspinning.com/
 Server=/magicwatchface.com/
@@ -68490,7 +68492,6 @@ Server=/ym-trans.com/
 Server=/ym01.tech/
 Server=/ym1998.com/
 Server=/ym23.com/
-Server=/ym68.cc/
 Server=/ymadly.com/
 Server=/ymadx.com/
 Server=/ymailcampaign.com/
