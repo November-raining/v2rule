@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2024-08-15
+## Last update: 2024-08-16
 
 
 Server=/0-6.com/
@@ -5065,6 +5065,7 @@ Server=/54pictu.com/
 Server=/54seaman.com/
 Server=/54sh.com/
 Server=/54traveler.com/
+Server=/54tup.com/
 Server=/54tusi.com/
 Server=/54watch.com/
 Server=/54xiaoshuo.com/
@@ -38727,6 +38728,7 @@ Server=/ict88.com/
 Server=/ictcsr.org/
 Server=/ictdns.fun/
 Server=/ictdns.store/
+Server=/ictdns.tech/
 Server=/ictehi.com/
 Server=/ictest8.com/
 Server=/icthb.com/
@@ -81183,6 +81185,7 @@ Server=/youboyy.com/
 Server=/youcaiyun.com/
 Server=/youcaizhushou.com/
 Server=/youcan-agritech.com/
+Server=/youcareyk.com/
 Server=/youcash.com/
 Server=/youcha.net/
 Server=/youche.com/

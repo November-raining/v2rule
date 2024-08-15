@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2024-08-15
+## Last update: 2024-08-16
 
 .*\b0-6\.com
 .*\b0\.zone
@@ -5065,6 +5065,7 @@
 .*\b54seaman\.com
 .*\b54sh\.com
 .*\b54traveler\.com
+.*\b54tup\.com
 .*\b54tusi\.com
 .*\b54watch\.com
 .*\b54xiaoshuo\.com
@@ -38727,6 +38728,7 @@
 .*\bictcsr\.org
 .*\bictdns\.fun
 .*\bictdns\.store
+.*\bictdns\.tech
 .*\bictehi\.com
 .*\bictest8\.com
 .*\bicthb\.com
@@ -81183,6 +81185,7 @@
 .*\byoucaiyun\.com
 .*\byoucaizhushou\.com
 .*\byoucan-agritech\.com
+.*\byoucareyk\.com
 .*\byoucash\.com
 .*\byoucha\.net
 .*\byouche\.com
