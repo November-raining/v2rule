@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2025-01-15
+## Last update: 2025-01-16
 
 .*\b0\.zone
 .*\b00\.net
@@ -1958,7 +1958,6 @@
 .*\b188yd\.com
 .*\b189002\.com
 .*\b1892139\.com
-.*\b18935689292\.com
 .*\b18937777777\.com
 .*\b18999666\.xyz
 .*\b189cha\.com
@@ -6635,7 +6634,6 @@
 .*\b77hd\.com
 .*\b77hudong\.com
 .*\b77itv\.com
-.*\b77kp\.co
 .*\b77l\.com
 .*\b77lux\.com
 .*\b77mh\.app
@@ -8942,7 +8940,6 @@
 .*\baesucai\.com
 .*\baet21\.com
 .*\baevit\.xyz
-.*\baexpb8\.tokyo
 .*\baexpec\.com
 .*\baf36\.com
 .*\baf360\.com
@@ -39020,7 +39017,6 @@
 .*\bhrloo\.com
 .*\bhrm100\.com
 .*\bhrmarket\.net
-.*\bhrmooc\.com
 .*\bhrmtgroup\.com
 .*\bhroot\.co
 .*\bhroot\.com
@@ -40435,7 +40431,6 @@
 .*\bhxys\.com
 .*\bhxytea\.com
 .*\bhxytw\.com
-.*\bhxyw\.net
 .*\bhxyxt\.com
 .*\bhxyyad\.com
 .*\bhxyyw\.com
@@ -44104,7 +44099,6 @@
 .*\bjiakaobaodian\.com
 .*\bjiakaodashi\.com
 .*\bjiakaokemuyi\.com
-.*\bjialada\.com
 .*\bjialanling\.com
 .*\bjialaxin\.cc
 .*\bjialebao\.cc
@@ -53834,7 +53828,6 @@
 .*\bme361\.com
 .*\bme4399\.com
 .*\bmeadin\.com
-.*\bmeadowhiker\.com
 .*\bmeazhi\.com
 .*\bmeb\.com
 .*\bmebo\.com
@@ -54280,7 +54273,6 @@
 .*\bmeten\.com
 .*\bmeteni\.com
 .*\bmetenk12\.com
-.*\bmeterchina\.com
 .*\bmeteric\.com
 .*\bmetersbonwe\.com
 .*\bmetin520\.com
@@ -61451,7 +61443,6 @@
 .*\bpuzzles100\.com
 .*\bpv001\.net
 .*\bpv138\.com
-.*\bpv4b\.com
 .*\bpvc-diban\.net
 .*\bpvc123\.com
 .*\bpvcliping\.com
@@ -65039,7 +65030,6 @@
 .*\brtyxpt\.com
 .*\brtyy\.com
 .*\brtyykj\.com
-.*\bru4\.com
 .*\bru5sq\.com
 .*\bruan\.cloud
 .*\bruancan\.com
@@ -69404,7 +69394,6 @@
 .*\bsnsfun\.cc
 .*\bsnsfun\.com
 .*\bsnsggzy\.com
-.*\bsnshopf79\.site
 .*\bsnsii\.com
 .*\bsnsnb\.com
 .*\bsnsqw\.com
@@ -72429,7 +72418,6 @@
 .*\btc9011\.com
 .*\btc930\.com
 .*\btccxfw\.com
-.*\btcdai\.com
 .*\btcdaogui\.cyou
 .*\btcdinfo\.com
 .*\btcdnlive\.com
@@ -74212,7 +74200,6 @@
 .*\btoyota-nanning\.com
 .*\btoyoures\.com
 .*\btoyoutesting\.com
-.*\btoys\.show
 .*\btoysir\.com
 .*\btoysol\.com
 .*\btozzger\.info
@@ -78757,7 +78744,6 @@
 .*\bwhgjzt\.com
 .*\bwhgk\.com
 .*\bwhgmbwg\.com
-.*\bwhgmxy\.com
 .*\bwhgszx\.com
 .*\bwhgtgh\.com
 .*\bwhguanshan\.com
@@ -83498,7 +83484,6 @@
 .*\bxnwan\.com
 .*\bxnwatch\.com
 .*\bxnwmw\.com
-.*\bxnwsc\.com
 .*\bxny365\.com
 .*\bxnyauto\.com
 .*\bxnye\.net
@@ -89595,7 +89580,6 @@
 .*\bzhaibian\.com
 .*\bzhaidou\.com
 .*\bzhaihai\.com
-.*\bzhaiiker\.com
 .*\bzhaikexueyuan\.com
 .*\bzhaimansky\.com
 .*\bzhainanba\.net
