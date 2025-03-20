@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2025-03-20
+## Last update: 2025-03-21
 
 .*\b0\.zone
 .*\b00\.net
@@ -1536,6 +1536,7 @@
 .*\b15kuaixiu\.com
 .*\b15lu\.com
 .*\b15ms\.com
+.*\b15re\.com
 .*\b15scsc\.com
 .*\b15tianqi\.com
 .*\b15xdd\.com
@@ -9060,6 +9061,7 @@
 .*\bace-info\.com
 .*\bace-pow\.com
 .*\bace-rubber\.com
+.*\bace113\.com
 .*\bacejoy\.com
 .*\bacelamicro\.com
 .*\baceoo\.com
@@ -20779,7 +20781,6 @@
 .*\bcmpay\.com
 .*\bcmpe360\.com
 .*\bcmpedu\.com
-.*\bcmqxysg\.com
 .*\bcmread\.com
 .*\bcmri\.cc
 .*\bcms1924\.org
@@ -24424,6 +24425,7 @@
 .*\bdelilegal\.com
 .*\bdelin-sh\.com
 .*\bdelinklab\.com
+.*\bdelipu\.cc
 .*\bdelishi\.com
 .*\bdeliworld\.com
 .*\bdelixi-electric\.com
@@ -25606,7 +25608,6 @@
 .*\bdmzlpf\.com
 .*\bdmzx\.com
 .*\bdmzzbjb\.net
-.*\bdn-diy\.com
 .*\bdn\.com
 .*\bdn23\.com
 .*\bdn580\.com
@@ -33674,7 +33675,6 @@
 .*\bgozap\.com
 .*\bgozongroup\.com
 .*\bgp-tm\.com
-.*\bgp123\.cc
 .*\bgp1903\.com
 .*\bgp1907\.com
 .*\bgp241\.com
@@ -38556,7 +38556,6 @@
 .*\bhcschengtou\.com
 .*\bhcsd123\.com
 .*\bhcsdhgjzx\.com
-.*\bhcshebao\.com
 .*\bhcsilk\.com
 .*\bhcsjddc\.com
 .*\bhcsound\.com
@@ -40812,6 +40811,7 @@
 .*\bhpccube\.com
 .*\bhpcssc\.com
 .*\bhpeft\.com
+.*\bhpgamestream\.com
 .*\bhpglw\.com
 .*\bhph123\.com
 .*\bhphuishou\.com
@@ -44414,6 +44414,7 @@
 .*\binicoapp\.com
 .*\binidc\.net
 .*\bininin\.com
+.*\binitff\.com
 .*\binitialview\.com
 .*\binitpp\.com
 .*\binitroot\.com
@@ -55116,7 +55117,6 @@
 .*\blwfengji\.net
 .*\blwfjmj\.com
 .*\blwfmzh\.com
-.*\blwgfwz\.com
 .*\blwgsw\.com
 .*\blwguitar\.com
 .*\blwhouse\.com
@@ -61997,6 +61997,7 @@
 .*\bomeet\.cc
 .*\bomegatravel\.net
 .*\bomegaxyz\.com
+.*\bomen\.com
 .*\bomgxy\.com
 .*\bomheth\.com
 .*\bomiaozu\.com
@@ -64122,7 +64123,6 @@
 .*\bpopziti\.com
 .*\bporlockz\.com
 .*\bporquesifiestas\.com
-.*\bporschesky\.com
 .*\bportalcdn\.cdnetworks\.com
 .*\bports-intl\.com
 .*\bportsgmt\.com
@@ -82349,6 +82349,7 @@
 .*\bweisyun\.com
 .*\bweitehui\.com
 .*\bweitiaozhuan\.com
+.*\bweitietl\.com
 .*\bweitiewang\.com
 .*\bweitip\.com
 .*\bweitoupiao\.com
@@ -91789,7 +91790,6 @@
 .*\byouyi-game\.com
 .*\byouyi800\.com
 .*\byouyigame\.com
-.*\byouyiggg\.com
 .*\byouyijifen\.com
 .*\byouyijiu\.com
 .*\byouyiqi\.com
@@ -92013,7 +92013,6 @@
 .*\bysext\.com
 .*\bysfog\.com
 .*\bysgang\.com
-.*\bysgc\.cc
 .*\bysgfood\.com
 .*\bysghh\.com
 .*\bysgtg\.com
@@ -93607,6 +93606,7 @@
 .*\bzbgscm\.com
 .*\bzbhot\.com
 .*\bzbhouse\.com
+.*\bzbhuafx\.com
 .*\bzbicg\.com
 .*\bzbieo\.com
 .*\bzbii\.com

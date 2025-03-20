@@ -1531,6 +1531,7 @@
 15kuaixiu.com
 15lu.com
 15ms.com
+15re.com
 15scsc.com
 15tianqi.com
 15xdd.com
@@ -9063,6 +9064,7 @@ acdianyuan.com
 ace-info.com
 ace-pow.com
 ace-rubber.com
+ace113.com
 acejoy.com
 acelamicro.com
 aceoo.com
@@ -20837,7 +20839,6 @@ cmpassport.com
 cmpay.com
 cmpe360.com
 cmpedu.com
-cmqxysg.com
 cmread.com
 cmri.cc
 cms1924.org
@@ -24498,6 +24499,7 @@ delicloud.com
 delilegal.com
 delin-sh.com
 delinklab.com
+delipu.cc
 delishi.com
 deliworld.com
 delixi-electric.com
@@ -25685,7 +25687,6 @@ dmzj8.com
 dmzlpf.com
 dmzx.com
 dmzzbjb.net
-dn-diy.com
 dn.com
 dn23.com
 dn580.com
@@ -33790,7 +33791,6 @@ goyoo.com
 gozap.com
 gozongroup.com
 gp-tm.com
-gp123.cc
 gp1903.com
 gp1907.com
 gp241.com
@@ -38696,7 +38696,6 @@ hcs360.com
 hcschengtou.com
 hcsd123.com
 hcsdhgjzx.com
-hcshebao.com
 hcsilk.com
 hcsjddc.com
 hcsound.com
@@ -40952,6 +40951,7 @@ hpccake.com
 hpccube.com
 hpcssc.com
 hpeft.com
+hpgamestream.com
 hpglw.com
 hph123.com
 hphuishou.com
@@ -44567,6 +44567,7 @@ init-p01st.push.apple.com
 init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
+initff.com
 initialview.com
 initpp.com
 initroot.com
@@ -55294,7 +55295,6 @@ lwebapp.com
 lwfengji.net
 lwfjmj.com
 lwfmzh.com
-lwgfwz.com
 lwgsw.com
 lwguitar.com
 lwhouse.com
@@ -62187,6 +62187,7 @@ omedsc.com
 omeet.cc
 omegatravel.net
 omegaxyz.com
+omen.com
 omgxy.com
 omheth.com
 omiaozu.com
@@ -64321,7 +64322,6 @@ poputar.com
 popziti.com
 porlockz.com
 porquesifiestas.com
-porschesky.com
 portalcdn.cdnetworks.com
 ports-intl.com
 portsgmt.com
@@ -82641,6 +82641,7 @@ weisuyun.net
 weisyun.com
 weitehui.com
 weitiaozhuan.com
+weitietl.com
 weitiewang.com
 weitip.com
 weitoupiao.com
@@ -92088,7 +92089,6 @@ youyegame.com
 youyi-game.com
 youyi800.com
 youyigame.com
-youyiggg.com
 youyijifen.com
 youyijiu.com
 youyiqi.com
@@ -92312,7 +92312,6 @@ ysepay.com
 ysext.com
 ysfog.com
 ysgang.com
-ysgc.cc
 ysgfood.com
 ysghh.com
 ysgtg.com
@@ -93906,6 +93905,7 @@ zbgl.net
 zbgscm.com
 zbhot.com
 zbhouse.com
+zbhuafx.com
 zbicg.com
 zbieo.com
 zbii.com
