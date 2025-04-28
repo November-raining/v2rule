@@ -40,7 +40,7 @@ fs =  file(outfile, 'w')
 #fs.write('# updated on ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '\n')
 #fs.write('#\n')
  
-print 'fetching list...'
+print('fetching list...')
 content = urllib2.urlopen(baseurl, timeout=15).read().decode('base64')
  
 # write the decoded content to file then read line by line
