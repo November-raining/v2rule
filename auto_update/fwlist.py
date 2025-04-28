@@ -49,7 +49,7 @@ tfs.write(content)
 tfs.close()
 tfs = open(tmpfile, 'r')
  
-print 'page content fetched, analysis...'
+print ('page content fetched, analysis...')
  
 # remember all blocked domains, in case of duplicate records
 domainlist = []
@@ -85,5 +85,5 @@ fs.close();
 #print 'restart dnsmasq...'
 #print os.popen('/etc/init.d/dnsmasq restart').read()
  
-print 'saving to file: ', outfile
-print 'done!'
+print ('saving to file: '), outfile
+print ('done!')
