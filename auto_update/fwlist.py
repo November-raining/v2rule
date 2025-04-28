@@ -35,7 +35,7 @@ tmpfile = '/tmp/gfwlisttmp'
 #outfile = '/tmp/gfwlist.conf'
 #rulesfile = '/etc/dnsmasq.d/gfwlist.conf'
  
-fs =  file(outfile, 'w')
+fs =  open(outfile, 'w')
 #fs.write('# gfw list ipset rules for dnsmasq\n')
 #fs.write('# updated on ' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '\n')
 #fs.write('#\n')
