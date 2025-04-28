@@ -41,7 +41,8 @@ fs =  open(outfile, 'w')
 #fs.write('#\n')
  
 print('fetching list...')
-content = urlopen(baseurl, timeout=15).read().decode('base64')
+data = urlopen(baseurl, timeout=15).read()
+content = base64.b64decode(data).decode('utf-8')
  
 # write the decoded content to file then read line by line
 tfs = open(tmpfile, 'w')
