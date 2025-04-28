@@ -7,7 +7,7 @@
 # Ref https://code.google.com/p/autoproxy-gfwlist/wiki/Rules    
  
 import sys
-import urllib2 
+from urllib.request import urlopen 
 import re
 import os
 import datetime
@@ -41,7 +41,7 @@ fs =  file(outfile, 'w')
 #fs.write('#\n')
  
 print('fetching list...')
-content = urllib2.urlopen(baseurl, timeout=15).read().decode('base64')
+content = urlopen(baseurl, timeout=15).read().decode('base64')
  
 # write the decoded content to file then read line by line
 tfs = open(tmpfile, 'w')
